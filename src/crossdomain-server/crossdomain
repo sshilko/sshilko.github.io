@@ -1,0 +1,21 @@
+#! /bin/sh
+# /etc/init.d/crossdomain
+ 
+case "$1" in
+  start)
+    echo "Starting simple flash policy file 'crossdomain.xml' server on default 843 port, for flash access"
+    # run application you want to start
+    python /usr/local/sbin/server.py --file=/usr/local/sbin/crossdomain.xml > /dev/null 2>&1 &
+    ;;
+  stop)
+    echo "Stopping"
+    # kill application you want to stop
+    killall python
+    ;;
+  *)
+    echo "Usage: /etc/init.d/crossdomain{start|stop}"
+    exit 1
+    ;;
+esac
+ 
+exit 0
