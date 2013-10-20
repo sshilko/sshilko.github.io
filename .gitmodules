@@ -1,0 +1,3 @@
+[submodule "examples/jQuery-AS3-Webcam"]
+	path = examples/jQuery-AS3-Webcam
+	url = https://github.com/sshilko/jQuery-AS3-Webcam
