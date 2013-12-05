@@ -139,7 +139,7 @@ h4.comment-number { padding-bottom: 15px; border-bottom: 1px dashed #eaeaea; mar
 /* :..[ Content ]..: */
 
 #main-content { width: 100%; margin: 25px 0; clear: both; }
-#content { float: left; display: inline; width: 640px; }
+#content { float: left; display: inline; }
 .hentry, #main-content .page, #comments, .retry, .sorry { position: relative; border-left: 1px dashed #eaeaea; border-right: 1px dashed #eaeaea; padding: 0 19px; }
 .post { margin-bottom: 40px; word-wrap: break-word; }
 .home .post { clear: both; }
