@@ -232,7 +232,7 @@ img.alignnone { display: block; clear: both; }
 
 /* :..[ Sidebar ]..: */
 
-#sidebar, #sidebar-alt { float: right; display: inline; width: 300px; }
+#sidebar, #sidebar-alt { float: right; display: inline; }
 .widget { border-bottom: 1px dashed #eaeaea; padding-bottom: 15px; font-size: 11px; overflow: hidden; }
 .widget ul li { margin-left: 16px; }
 #sidebar select, #sidebar-alt select { width: 50%; }
