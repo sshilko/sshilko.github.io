@@ -138,9 +138,9 @@ h4.comment-number { padding-bottom: 15px; border-bottom: 1px dashed #eaeaea; mar
 
 /* :..[ Content ]..: */
 
-#main-content { width: 100%; margin: 25px 0; clear: both; }
+#main-content { width: 100%; margin: 25px 0; clear: both; padding-top: 10px; padding-bottom: 30px }
 #content { float: left; display: inline; }
-.hentry, #main-content .page, #comments, .retry, .sorry { position: relative; border-left: 1px dashed #eaeaea; border-right: 1px dashed #eaeaea; padding: 0 19px; }
+/* .hentry, #main-content .page, #comments, .retry, .sorry { position: relative; border-left: 1px dashed #eaeaea; border-right: 1px dashed #eaeaea; padding: 0 19px; } */
 .post { margin-bottom: 40px; word-wrap: break-word; }
 .home .post { clear: both; }
 #main-content .page, .retry, .sorry { margin-top: 15px; }
@@ -233,7 +233,9 @@ img.alignnone { display: block; clear: both; }
 /* :..[ Sidebar ]..: */
 
 #sidebar, #sidebar-alt { float: right; display: inline; }
-.widget { border-bottom: 1px dashed #eaeaea; padding-bottom: 15px; font-size: 11px; overflow: hidden; }
+/* .widget { border-bottom: 1px dashed #eaeaea; padding-bottom: 15px; font-size: 11px; overflow: hidden; } */
+.widget { padding-bottom: 15px; padding-top: 15px; font-size: 11px; overflow: hidden; } */
+
 .widget ul li { margin-left: 16px; }
 #sidebar select, #sidebar-alt select { width: 50%; }
 #sidebar ol, #sidebar ul, #sidebar-alt ol, #sidebar-alt ul { padding: 0; font-size: 11px; }
