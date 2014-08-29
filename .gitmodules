@@ -1,3 +1,6 @@
 [submodule "examples/jQuery-AS3-Webcam"]
 	path = examples/jQuery-AS3-Webcam
 	url = https://github.com/sshilko/jQuery-AS3-Webcam
+[submodule "more"]
+	path = more
+	url = git@github.com:sshilko/jekyll-now.git
