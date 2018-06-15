@@ -2,7 +2,7 @@
    "basics":{
       "name":"Sergei Shilko",
       "label":"Software Engineer",
-      "picture":"http://fbe4938c-a-62cb3a1a-s-sites.googlegroups.com/site/sergeyshilko/sshilko_avatar_400x400.jpg",
+      "picture":"http://sshilko.com/shilko_avatar_400x400.jpg",
       "email":"contact@sshilko.com",
       "phone":"",
       "website":"http://sshilko.com",
@@ -29,6 +29,11 @@
             "network":"LinkedIn",
             "username":"sergeyshilko",
             "url":"https://www.linkedin.com/in/sergeyshilko/"
+         },
+         {
+            "network":"PDF",
+            "username":"sergeishilko-cv",
+            "url":"http://www.sshilko.com/sergeishilko-cv.pdf"
          }
       ]
    },
@@ -191,7 +196,13 @@
       }
    ],
    "publications":[
-
+     {
+       "name": "Curriculum vitae",
+       "publisher": "Sergei Shilko",
+       "releaseDate": "2018-06-05",
+       "website": "http://www.sshilko.com/sergeishilko-cv.pdf",
+       "summary": "More about me"
+     }
    ],
    "skills":[
       {
