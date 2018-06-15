@@ -1,0 +1,319 @@
+{
+   "basics":{
+      "name":"Sergei Shilko",
+      "label":"Software Engineer",
+      "picture":"https://fbe4938c-a-62cb3a1a-s-sites.googlegroups.com/site/sergeyshilko/sshilko_avatar_400x400.jpg",
+      "email":"contact@sshilko.com",
+      "phone":"",
+      "website":"https://sshilko.com",
+      "summary":"Hi, I am Sergei Shilko, i graduated in 2010 MS Psychology with study on role of personal characteristics in a successful Software/IT career. Since first year in university i already worked for IT company and now i have more than 10 years of experience in Web/IT engineering. I managed work on multiple software projects ranging from small plugins and internal IT systems to build from scratch backend systems for high load. My expertise domains are Web, Mobile and APIs for backend applications.  I like to solve technical and business problems with focus on client requirements and working closely with product teams.",
+      "location":{
+         "address":"",
+         "postalCode":"",
+         "city":"Berlin",
+         "countryCode":"Germany",
+         "region":""
+      },
+      "profiles":[
+         {
+            "network":"Twitter",
+            "username":"sshilko",
+            "url":"https://twitter.com/sshilko"
+         },
+         {
+            "network":"Github",
+            "username":"sshilko",
+            "url":"https://github.com/sshilko"
+         },
+         {
+            "network":"LinkedIn",
+            "username":"sergeyshilko",
+            "url":"https://www.linkedin.com/in/sergeyshilko/"
+         }
+      ]
+   },
+   "work":[
+      {
+         "company":"Tripod Technlogy GmbH",
+         "position":"Head of Engineering",
+         "website":"https://www.tandem.net",
+         "startDate":"2016-06-01",
+         "endDate":"2038-01-01",
+         "summary":"SRE & Cloud Architecture of backend APIs,  IT,  Operations, Concept. Reporting and liaising directly with CEO & external stakeholders",
+         "highlights":[
+            "Scaling and developing whole backend infrastructure",
+            "Migrating whole stack into containers (Docker) and K8S",
+            "Costs optimized technology stack",
+            "Promoting AWS Best Practices and Agile",
+            "China and SEA connectivity improvements and research"
+         ]
+      },
+      {
+         "company":"Tripod Technlogy GmbH",
+         "position":"Senior FullStack Software Developer",
+         "website":"https://www.tandem.net",
+         "startDate":"2013-06-01",
+         "endDate":"2016-06-01",
+         "summary":"Mature backend solutions for audio/video (tele)communications software. Developing public API for mobile clients.",
+         "highlights":[
+            "Implemented first API for first version of mobile app",
+            "Revamp of old codebase (prototype) into working product",
+            "Deprecate legacy on-premise hosting and migration  into AWS",
+            "Defining the whole mobile optimized API's from ground-up for iOS and then Android clients",
+            "2015 Most innovative app of the year (Apple iTunes)"
+         ]
+      },
+      {
+         "company":"Yangutu LLC",
+         "position":"Lead Software Developer",
+         "website":"https://meetville.com/",
+         "startDate":"2011-11-01",
+         "endDate":"2012-11-01",
+         "summary":"Working on web based social network.",
+         "highlights":[
+            "Game platform add-on for product",
+            "AMF Flex/ActionScript API Server",
+            "Facebook, Instagram and other social networks integration",
+            "Import/Export API's"
+         ]
+      },
+      {
+         "company":"Cygno Solutions LLC",
+         "position":"Contractor",
+         "website":"https://cygno.com/",
+         "startDate":"2011-09-01",
+         "endDate":"2011-11-01",
+         "summary":"Short term freelance experience, integrating payment gateways and external API into existing project",
+         "highlights":[
+            "PayPal integration",
+            "DineroMail (SA Payment platform) integration"
+         ]
+      },
+      {
+         "company":"eHarmony, Inc",
+         "position":"PHP Developer",
+         "website":"https://www.eharmony.com",
+         "startDate":"2008-08-01",
+         "endDate":"2011-09-01",
+         "summary":"eHarmony Reporting and Management Tools for Risk Management team.",
+         "highlights":[
+            "CMS/RMS Internal website to manage and automate risks and fraud detection",
+            "Working with sensitive client abd payment information"
+         ]
+      },
+      {
+         "company":"IponWeb",
+         "position":"Software Developer",
+         "website":"https://www.iponweb.com/",
+         "startDate":"2007-08-01",
+         "endDate":"2011-09-01",
+         "summary":"SOAP/Rest API for real-time AD Exchange platform (formerly RightMedia.com)",
+         "highlights":[
+            "Working on API for real-time advertising platform at scale",
+            "Implementing funtional test coverage for whole functionality and refactoring old tests"
+         ]
+      },
+      {
+         "company":"Yahoo!",
+         "position":"Contractor",
+         "website":"https://yahoo.com",
+         "startDate":"2008-05-01",
+         "endDate":"2009-03-01",
+         "summary":"Maintaining RightMedia AD Exchange API migration after Yahoo! purchase",
+         "highlights":[
+            "Refactoring tests, code and documentation, working with remote Yahoo developers team"
+         ]
+      },
+      {
+         "company":"Sinytech LLC",
+         "position":"Intern, Developer",
+         "website":"",
+         "startDate":"2005-12-01",
+         "endDate":"2007-08-01",
+         "summary":"E-commerce websites for multiple clients/brands",
+         "highlights":[
+            "Learn Web and IT",
+            "Learn CMS and development tools",
+            "Integrate VeriSign payment processor",
+            "Support custom CMS codebase (MVC)"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Grodnenski Dzjaržauny Universitet imja Janki Kupaly",
+         "area":"Psychology ",
+         "studyType":"Personal characteristics of successful Software Engineers",
+         "startDate":"2005-09-01",
+         "endDate":"2010-09-01",
+         "gpa":"",
+         "courses":[
+            "Cognitive psychology",
+            "Psychodiagnostics",
+            "Experimental psychology"
+         ]
+      },
+      {
+         "institution":"GGPEK Technical College",
+         "area":"Electrical engineering",
+         "studyType":"High voltage electrical relays and automation controls",
+         "startDate":"2003-09-01",
+         "endDate":"2005-09-01",
+         "gpa":"",
+         "courses":[
+            "High voltage engineering"
+         ]
+      },
+      {
+         "institution":"Community College",
+         "area":"Electrical engineering",
+         "studyType":"",
+         "startDate":"2000-09-01",
+         "endDate":"2003-09-01",
+         "gpa":"",
+         "courses":[
+
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Yearly city college IT competition",
+         "date":"2003-01-01",
+         "awarder":"1st place",
+         "summary":"Local city contest across different education institutions"
+      },
+      {
+         "title":"Yearly country IT competition",
+         "date":"2005-01-01",
+         "awarder":"3rd place",
+         "summary":"Country contest across all education institutions from all regions"
+      }
+   ],
+   "publications":[
+
+   ],
+   "skills":[
+      {
+         "name":"FrontEnd Web Development",
+         "level":"Master",
+         "keywords":[
+            "HTML",
+            "CSS",
+            "Javascript",
+            "jQuery",
+            "SEO"
+         ]
+      },
+      {
+         "name":"BackEnd Web Development",
+         "level":"Master",
+         "keywords":[
+            "MySQL 5.7",
+            "MongoDB",
+            "Redis",
+            "Adobe AMF",
+            "PHP ZendFramework",
+            "PHP 7.2",
+            "Docker",
+            "Beanstalkd",
+            "RabbitMQ",
+            "AMQP",
+            "",
+            "Vagrant",
+            "Puppet",
+            "Linux",
+            "Git",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "name":"AWS Cloud",
+         "level":"Master",
+         "keywords":[
+            "EC2",
+            "Lambda",
+            "S3",
+            "RDS",
+            "ElastiCache",
+            "VPC",
+            "CloudFront",
+            "Route 53",
+            "API Gateway",
+            "CodeCommit",
+            "CodeBuild",
+            "CloudWatch",
+            "IAM",
+            "ECR",
+            "Cognito",
+            "Certificate Manager",
+            "WAF & Shield",
+            "SQS",
+            "SNS"
+         ]
+      },
+      {
+         "name":"",
+         "level":"",
+         "keywords":[
+
+         ]
+      }
+   ],
+   "languages":[
+      {
+         "language":"English",
+         "fluency":"Proficient"
+      },
+      {
+         "language":"German",
+         "fluency":"Upper Intermediate"
+      },
+      {
+         "language":"Polish",
+         "fluency":"Elementary"
+      },
+      {
+         "language":"Ukrainian",
+         "fluency":"Elementary"
+      },
+      {
+         "language":"Belarussian",
+         "fluency":"Proficient"
+      }
+   ],
+   "interests":[
+      {
+         "name":"eSports",
+         "keywords":[
+
+         ]
+      },
+      {
+         "name":"Traveling",
+         "keywords":[
+
+         ]
+      },
+      {
+         "name":"PC Geek",
+         "keywords":[
+
+         ]
+      },
+      {
+         "name":"",
+         "keywords":[
+
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Arnd Aschentrup / CEO Tripod Technology GmbH",
+         "reference":""
+      }
+   ]
+}
