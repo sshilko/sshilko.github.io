@@ -29,7 +29,17 @@
             "network":"LinkedIn",
             "username":"sergeyshilko",
             "url":"https://www.linkedin.com/in/sergeyshilko/"
-         }
+         },
+        {
+          "network":"Profile",
+          "username":"",
+          "url":"http://www.sshilko.com/sergeishilko-cv.pdf"
+        },
+        {
+          "network":"Book",
+          "username":"",
+          "url":"http://moar.sshilko.com"
+        }
       ]
    },
    "work":[
@@ -191,13 +201,6 @@
       }
    ],
    "publications":[
-     {
-       "name": "Curriculum vitae",
-       "publisher": "Sergei Shilko",
-       "releaseDate": "2018-06-05",
-       "website": "http://www.sshilko.com/sergeishilko-cv.pdf",
-       "summary": "More about me"
-     }
    ],
    "skills":[
       {
