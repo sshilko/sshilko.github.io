@@ -1,0 +1,16 @@
+#JSON Resume by http://jsonresume.org/ under Windows
+
+#Install Chocolatey with PowerShell
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
+#install node (includes npm)
+choco install nodejs
+
+#install resume
+npm install resume-cli
+npm install -g jsonresume-theme-elegant
+
+resume export -t elegant index.html
+
+#inject meta from meta.html
+

@@ -2,10 +2,10 @@
    "basics":{
       "name":"Sergei Shilko",
       "label":"Software Engineer",
-      "picture":"https://fbe4938c-a-62cb3a1a-s-sites.googlegroups.com/site/sergeyshilko/sshilko_avatar_400x400.jpg",
+      "picture":"http://fbe4938c-a-62cb3a1a-s-sites.googlegroups.com/site/sergeyshilko/sshilko_avatar_400x400.jpg",
       "email":"contact@sshilko.com",
       "phone":"",
-      "website":"https://sshilko.com",
+      "website":"http://sshilko.com",
       "summary":"Hi, I am Sergei Shilko, i graduated in 2010 MS Psychology with study on role of personal characteristics in a successful Software/IT career. Since first year in university i already worked for IT company and now i have more than 10 years of experience in Web/IT engineering. I managed work on multiple software projects ranging from small plugins and internal IT systems to build from scratch backend systems for high load. My expertise domains are Web, Mobile and APIs for backend applications.  I like to solve technical and business problems with focus on client requirements and working closely with product teams.",
       "location":{
          "address":"",
@@ -219,14 +219,9 @@
             "Beanstalkd",
             "RabbitMQ",
             "AMQP",
-            "",
             "Vagrant",
             "Puppet",
-            "Linux",
-            "Git",
-            "",
-            "",
-            ""
+            "Git"
          ]
       },
       {
@@ -255,10 +250,16 @@
          ]
       },
       {
-         "name":"",
-         "level":"",
+         "name":"Other",
+         "level":"Master",
          "keywords":[
-
+            "Github",
+            "NewRelic",
+            "Debian",
+            "Alpine Linux",
+            "Amazon Linux",
+            "Ubuntu",
+            "Gentoo"
          ]
       }
    ],
@@ -286,21 +287,28 @@
    ],
    "interests":[
       {
-         "name":"eSports",
-         "keywords":[
-
-         ]
-      },
-      {
          "name":"Traveling",
          "keywords":[
-
+            "EU"
          ]
       },
       {
          "name":"PC Geek",
-         "keywords":[
+         "keywords":["Modding", "HTPC", "Raspberry Pi", "ZX Spectrum", "Retro", "LAN Networking", "Wireless"
 
+         ]
+      },
+      {
+         "name":"Reading",
+         "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
+            "Best practices", "High performance", "IT novels", "Marketing and selling high-tech products", "Scalable and maintainable systems", "Algorithms",
+            "Managing successful projects", "Building teams", "Software architect wisdom", "Isaac Asimov", "Robert Heinlein", "George Orwell", "Terry Goodkind",
+            "Alan Kuper", "Tom DeMarco"
+         ]
+      },
+      {
+         "name":"eSports",
+         "keywords":[ "Twitch", "International", "Competitive teams", "Broadcasting", "Analytics"
          ]
       },
       {
