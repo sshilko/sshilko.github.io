@@ -230,7 +230,8 @@
             "AMQP",
             "Vagrant",
             "Puppet",
-            "Git"
+            "Git",
+            "JSON-RPC"
          ]
       },
       {
@@ -238,6 +239,7 @@
          "level":"Master",
          "keywords":[
             "EC2",
+            "ELB",
             "Lambda",
             "S3",
             "RDS",
@@ -268,7 +270,10 @@
             "Alpine Linux",
             "Amazon Linux",
             "Ubuntu",
-            "Gentoo"
+            "Gentoo",
+            "Facebook API",
+            "Apple APNS",
+            "Google FCM"
          ]
       }
    ],
