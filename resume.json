@@ -213,6 +213,19 @@
             "SEO"
          ]
       },
+
+      {
+         "name":"Backend JS Development",
+         "level":"Beginner",
+         "keywords":[
+            "NodeJS",
+            "PhantomJS",
+            "NightmareScript"
+         ]
+      },
+
+
+      
       {
          "name":"BackEnd Web Development",
          "level":"Master",
@@ -220,17 +233,33 @@
             "MySQL 5.7",
             "MongoDB",
             "Redis",
+	    "SphinxSearch",
+	    "ManticoreSearch",
+	    "Docker",
+	    "Docker Swarm",
             "Adobe AMF",
-            "PHP ZendFramework",
-            "PHP 7.2",
+            "PHP ZendFramework 1",
+	    "Custom PHP Frameworks",
+            "PHP 5.5 - 7.2",
             "Docker",
             "Beanstalkd",
             "RabbitMQ",
+	    "Gearman",
             "AMQP",
             "Vagrant",
             "Puppet",
             "Git",
-            "JSON-RPC"
+            "JSON-RPC",
+	    "PHPUnit",
+	    "Curl",
+	    "Grep",
+	    "Bash",
+	    "Sysctl/Systemd",
+	    "Guzzle",
+	    "PHPStorm",
+	    "Vim",
+	    "Emacs",
+	    "SublimeText"
          ]
       },
       {
@@ -249,6 +278,7 @@
             "API Gateway",
             "CodeCommit",
             "CodeBuild",
+	    "CodeDeploy",	    
             "CloudWatch",
             "IAM",
             "ECR",
@@ -256,7 +286,10 @@
             "Certificate Manager",
             "WAF & Shield",
             "SQS",
-            "SNS"
+            "SNS",
+	    "Mobile Hub",
+	    "PinPoint",
+	    "WorkMail"
          ]
       },
       {
@@ -268,6 +301,7 @@
             "Debian",
             "Alpine Linux",
             "Amazon Linux",
+	    "Arch Linux",
             "Ubuntu",
             "Gentoo",
             "Facebook API",
@@ -303,10 +337,21 @@
       }
    ],
    "interests":[
+      {  "name":"Conferences",
+	 "keywords":[
+		 "Belin - AWS Summit 2016", "Berlin - AWS Summit 2017", "Kopenhagen - KubeCon 2018"
+	 ]
+      },
+      {  "name":"Podcasts and Forums",
+         "keywords":[
+                 "Golang - Golangshow", "Radio-T", "IXBT", "Habr"
+         ]
+      }, 
+      
       {
          "name":"Traveling",
          "keywords":[
-            "EU"
+            "Greece", "Spain", "Georgia", "Germany", "Poland", "Greek islands"
          ]
       },
       {
