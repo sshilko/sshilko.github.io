@@ -197,6 +197,12 @@
          "date":"2005-01-01",
          "awarder":"3rd place",
          "summary":"Country contest across all education institutions from all regions"
+      },
+      {
+         "title": "AWS Certified Solutions Architect - Associate (SAA)",
+         "date": "2018-12-13",
+         "awarder": "3GV5K7KKC14Q17W1",
+         "Summary": "The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform"
       }
    ],
    "publications":[
@@ -278,7 +284,8 @@
             "API Gateway",
             "CodeCommit",
             "CodeBuild",
-	    "CodeDeploy",	    
+	        "CodeDeploy",
+            "CodePipeline",
             "CloudWatch",
             "IAM",
             "ECR",
