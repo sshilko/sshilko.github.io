@@ -8,12 +8,24 @@ choco install nodejs
 
 #Mac
 brew install node
-
+# - RESUME-CLI -----------------------------
 #install resume
 npm install resume-cli
+npm update -g resume-cli
 npm install -g jsonresume-theme-elegant
 
+#https://www.npmjs.com/search?q=jsonresume-theme-elegant
 resume export -t elegant index.html
+
+# - THEME-RENDER ---------------------------
+git clone https://github.com/sshilko/jsonresume-theme-elegant.git
+npm install grunt-cli
+cd jsonresume-theme-elegant
+npm install
+
+#copy resume.json, run `grunt exec:build`
+#built index.html is inside build folder, distribute as-is
+----------------------------------------------
 
 #inject meta from meta.html
 
