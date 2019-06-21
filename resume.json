@@ -50,11 +50,17 @@
          "startDate":"2016-06-01",
          "summary":"SRE & Cloud Architecture of backend APIs,  IT,  Operations, Concept. Reporting and liaising directly with CEO & external stakeholders",
          "highlights":[
-            "Scaling and developing whole backend infrastructure",
-            "Migrating whole stack into containers (Docker) and K8S",
-            "Costs optimized technology stack",
-            "Promoting AWS Best Practices and Agile",
-            "China and SEA connectivity improvements and research"
+            "Scaled, monitored and developed all backend infrastructure",
+            "Migrated application services into containers (Docker)",
+            "Experimented with K8S, Rancher, Swarm orchestration",
+            "Built full CI/CD pipeline on AWS Pipeline inc. Blue/Green deployments and AutoScaling",
+            "Promoted AWS Best Practices, AWS Well-Architected",
+            "China and SEA connectivity improved, ICP/Hosting issues resolved",
+            "Refactored, maintaned and upgraded application code and infrastructure",
+	    "Added more analytics, KPI & Revenue tracking, Retention and engagement tracking",
+            "Migrated form PHP 5.4 to 7.2, Ubuntu 12 to Debian 9, AWS EC2-Classic to VPC",
+            "Hired, onboarded and directly managed new dev members",
+	    "Enforced unit & integration testing, code review & code style policies"
          ]
       },
       {
@@ -65,11 +71,14 @@
          "endDate":"2016-06-01",
          "summary":"Mature backend solutions for audio/video (tele)communications software. Developing public API for mobile clients.",
          "highlights":[
-            "Implemented first API for first version of mobile app",
-            "Revamp of old codebase (prototype) into working product",
-            "Deprecate legacy on-premise hosting and migration  into AWS",
-            "Defining the whole mobile optimized API's from ground-up for iOS and then Android clients",
-            "2015 Most innovative app of the year (Apple iTunes)"
+            "Refactored of old inherited prototype codebase into working product, did first production release",
+	    "Celebrated first 50 users sign-up on GA dashboard and first promotions on iTunes",
+            "Implemented json-rpc API for mobile app based on Adobe Flex and added support later for native iOS & Android app",
+            "Deprecate legacy on-premise hosting and migration into AWS EC2-Classic",
+            "Celebrated 2015 Most innovative app of the year (Apple iTunes)",
+            "Implemented custom framework with open-source components",
+            "Reduced API response times from >=2000ms to ~100ms",
+            "Implemented critical app functionality: messenger, userfeed, email-reminders, search and more"
          ]
       },
       {
@@ -80,10 +89,10 @@
          "endDate":"2012-11-01",
          "summary":"Working on web based social network.",
          "highlights":[
-            "Game platform add-on for product",
-            "AMF Flex/ActionScript API Server",
-            "Facebook, Instagram and other social networks integration",
-            "Import/Export API's"
+            "Added API for supporting external 3rd party Game-platform add-on's ",
+            "Added AMF Flex/ActionScript API Server for import/export of data to mobile platform",
+            "Added Facebook, Instagram, VK and other social networks integrations",
+            "Extended import/export API's"
          ]
       },
       {
@@ -94,8 +103,8 @@
          "endDate":"2011-11-01",
          "summary":"Short term freelance experience, integrating payment gateways and external API into existing project",
          "highlights":[
-            "PayPal integration",
-            "DineroMail (SA Payment platform) integration"
+            "Added PayPal integration into existing project",
+            "Added DineroMail (South America Payment platform) integration into existing project"
          ]
       },
       {
@@ -106,8 +115,12 @@
          "endDate":"2011-09-01",
          "summary":"eHarmony Reporting and Management Tools for Risk Management team.",
          "highlights":[
-            "CMS/RMS Internal website to manage and automate risks and fraud detection",
-            "Working with sensitive client abd payment information"
+            "Developed CMS/RMS Internal service from specification to manage and automate risks and fraud detection",
+            "Working with sensitive client payment information",
+   	    "Extended CMS/RMS service with flexible and configurable multi-role authentication system for different regions",
+            "Added support for localization and translation of CMS/RMS",
+            "Added analytics and audit tools for tracking and optimizing team (users or the CMS/RMS) performance",
+   	    "Received feedback: UI/UX, bugs, new features suggestions and implemented"
          ]
       },
       {
@@ -118,8 +131,9 @@
          "endDate":"2011-09-01",
          "summary":"SOAP/Rest API for real-time AD Exchange platform (formerly RightMedia.com)",
          "highlights":[
-            "Working on API for real-time advertising platform at scale",
-            "Implementing funtional test coverage for whole functionality and refactoring old tests"
+            "Worked on SOAP-API for high-load real-time advertising platform at scale",
+            "Heavily extended and rewrote existing funtional test coverage, integrational e2e testing",
+	    "Covered many new edge cases in tests which lead to fixes in critical API parts"
          ]
       },
       {
@@ -141,10 +155,11 @@
          "endDate":"2007-08-01",
          "summary":"E-commerce websites for multiple clients/brands",
          "highlights":[
-            "Learn Web and IT",
-            "Learn CMS and development tools",
-            "Integrate VeriSign payment processor",
-            "Support custom CMS codebase (MVC)"
+            "Learned CGI, HTML, CSS - Web and IT",
+            "Worked on custom CMS",
+            "Integrated VeriSign payment processor",
+            "Extended existing CMS codebase (MVC) with new functionality",
+            "Implemented and released in production multiple e-commerce projects based on common CMS/framework"
          ]
       }
    ],
@@ -229,14 +244,12 @@
             "NightmareScript"
          ]
       },
-
-
-      
+     
       {
          "name":"BackEnd Web Development",
          "level":"Master",
          "keywords":[
-            "MySQL 5.7",
+            "MySQL 5.5 - 5.7",
             "MongoDB",
             "Redis",
 	    "SphinxSearch",
@@ -245,15 +258,15 @@
 	    "Docker Swarm",
             "Adobe AMF",
             "PHP ZendFramework 1",
-	    "Custom PHP Frameworks",
+	    "Custom PHP Frameworks / MVC",
             "PHP 5.5 - 7.2",
-            "Docker",
             "Beanstalkd",
             "RabbitMQ",
 	    "Gearman",
-            "AMQP",
+            "AMQP & MQTT",
             "Vagrant",
             "Puppet",
+	    "Nginx",
             "Git",
             "JSON-RPC",
 	    "PHPUnit",
@@ -304,6 +317,7 @@
          "level":"Master",
          "keywords":[
             "Github",
+            "SVN, Mercurial",
             "NewRelic",
             "Debian",
             "Alpine Linux",
@@ -311,12 +325,16 @@
 	    "Arch Linux",
             "Ubuntu",
             "Gentoo",
+	    "Mac OS",
             "Facebook API",
             "Apple APNS",
             "Google FCM",
 	    "Alipay Payments",
+	    "Baidu PN",
 	    "Google & iTunes Payments",
 	    "Stripe, Paypal Payments",
+            "OpenTOK",
+            "SparkPost, Mandrill",
 	    "Kubernetes"
          ]
       }
@@ -350,7 +368,9 @@
    "interests":[
       {  "name":"Conferences",
 	 "keywords":[
-		 "Belin - AWS Summit 2016", "Berlin - AWS Summit 2017", "Kopenhagen - KubeCon 2018", "Berlin - AWS Summit 2019"
+		 "Belin - AWS Summit 2014", "Belin - AWS Summit 2015",
+		 "Belin - AWS Summit 2016", "Berlin - AWS Summit 2017", "KubeCon + CloudNativeCon 2018", "Berlin - AWS Summit 2019",
+		 "KubeCon + CloudNativeCon 2019"
 	 ]
       },
       {  "name":"Podcasts and Forums",
@@ -362,14 +382,12 @@
       {
          "name":"Traveling",
          "keywords":[
-            "Greece", "Spain", "Georgia", "Germany", "Poland", "Greek islands"
+            "Greece", "Spain", "Georgia", "Germany", "Poland", "Greek islands", "Lithuania", "Russia", "Egypt"
          ]
       },
       {
          "name":"PC Geek",
-         "keywords":["Modding", "HTPC", "Raspberry Pi", "ZX Spectrum", "Retro", "LAN Networking", "Wireless"
-
-         ]
+         "keywords":["Modding", "HTPC", "Raspberry Pi", "ZX Spectrum", "Retro", "LAN & Wireless"]
       },
       {
          "name":"Reading",
@@ -381,14 +399,7 @@
       },
       {
          "name":"eSports",
-         "keywords":[ "Twitch", "International", "Competitive teams", "Broadcasting", "Analytics"
-         ]
-      },
-      {
-         "name":"",
-         "keywords":[
-
-         ]
+         "keywords":[ "Twitch", "International", "Competitive teams", "Broadcasting", "Analytics"]
       }
    ],
    "references":[
