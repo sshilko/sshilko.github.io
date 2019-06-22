@@ -17,26 +17,31 @@
       "profiles":[
          {
             "network":"Twitter",
+            "title": "Twitter",
             "username":"sshilko",
             "url":"https://twitter.com/sshilko"
          },
          {
             "network":"Github",
+            "title": "Github",
             "username":"sshilko",
             "url":"https://github.com/sshilko"
          },
          {
             "network":"LinkedIn",
+            "title": "LinkedIn",
             "username":"sergeyshilko",
             "url":"https://www.linkedin.com/in/sergeyshilko/"
          },
         {
           "network":"Profile",
+          "title": "CV",
           "username":"",
           "url":"http://www.sshilko.com/sergeishilko-cv.pdf"
         },
         {
           "network":"Book",
+          "title": "Blog",
           "username":"",
           "url":"http://moar.sshilko.com"
         }
