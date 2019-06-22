@@ -37,7 +37,7 @@
           "network":"Profile",
           "title": "CV",
           "username":"",
-          "url":"http://www.sshilko.com/sergeishilko-cv.pdf"
+          "url":"http://www.sshilko.com/sshilko.com.pdf"
         },
         {
           "network":"Book",
@@ -62,7 +62,7 @@
             "Promoted AWS Best Practices, AWS Well-Architected",
             "China and SEA connectivity improved, ICP/Hosting issues resolved",
             "Refactored, maintaned and upgraded application code and infrastructure",
-	    "Added more analytics, KPI & Revenue tracking, Retention and engagement tracking",
+	        "Added more analytics, KPI & revenue, retention and engagement tracking",
             "Migrated from PHP 5.4 to 7.2, Ubuntu 12 to Debian 9, AWS EC2-Classic to VPC",
             "Hired, onboarded and directly managed new dev members",
 	    "Enforced unit & integration testing, code review & code style policies"
