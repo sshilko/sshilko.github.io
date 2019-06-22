@@ -63,7 +63,7 @@
             "China and SEA connectivity improved, ICP/Hosting issues resolved",
             "Refactored, maintaned and upgraded application code and infrastructure",
 	    "Added more analytics, KPI & Revenue tracking, Retention and engagement tracking",
-            "Migrated form PHP 5.4 to 7.2, Ubuntu 12 to Debian 9, AWS EC2-Classic to VPC",
+            "Migrated from PHP 5.4 to 7.2, Ubuntu 12 to Debian 9, AWS EC2-Classic to VPC",
             "Hired, onboarded and directly managed new dev members",
 	    "Enforced unit & integration testing, code review & code style policies"
          ]
