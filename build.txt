@@ -1,15 +1,11 @@
-#JSON Resume by http://jsonresume.org/ under Windows
-
-#Install Chocolatey with PowerShell
+# Windows ----------------------------------
+# 1 Install Chocolatey with PowerShell
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-
-#Windows install node (includes npm)
+# 2 Windows install node (includes npm)
 choco install nodejs
 
-#Mac
+# Mac --------------------------------------
 brew install node
-# - RESUME-CLI -----------------------------
-#install resume
 npm install resume-cli
 npm update -g resume-cli
 npm install -g jsonresume-theme-elegant
@@ -17,7 +13,7 @@ npm install -g jsonresume-theme-elegant
 #https://www.npmjs.com/search?q=jsonresume-theme-elegant
 resume export -t elegant index.html
 
-# - THEME-RENDER ---------------------------
+#theme renderer
 git clone https://github.com/sshilko/jsonresume-theme-elegant.git
 npm install grunt-cli
 cd jsonresume-theme-elegant
@@ -25,11 +21,10 @@ npm install
 
 #copy resume.json, run `grunt exec:build`
 #built index.html is inside build folder, distribute as-is
-----------------------------------------------
 
-#inject meta from meta.html
-
-PDF
+# PDF --------------------------------------
 https://topdf.org/url
 
-
+# Linux/Docker
+docker pull fixl/json-resume
+docker run --rm -it -v $(pwd):/src fixl/json-resume export --theme elegant --format html index.html
