@@ -52,8 +52,24 @@
          "company":"Tripod Technlogy GmbH",
          "position":"Head of Engineering",
          "website":"https://www.tandem.net",
+         "startDate":"2019-01-01",
+         "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
+         "highlights":[
+            "Migrated to PHP 7.3, deprecated and reduced dependencies",
+            "Improved analytics in subscriptions and revenue tracking",
+            "Updated messaging realtime server, reworked authorization, added web/js client support",
+            "Added support for gifting, in-app purchases, subscription hold, grace periods, geo-search",
+            "Integrated NewRelic Infrastructure monitoring",
+            "Hired, onboarded new team members"
+         ]
+      },
+      {
+         "company":"Tripod Technlogy GmbH",
+         "position":"Head of Engineering",
+         "website":"https://www.tandem.net",
          "startDate":"2016-06-01",
-         "summary":"SRE & Cloud Architecture of backend APIs,  IT,  Operations, Concept. Reporting and liaising directly with CEO & external stakeholders",
+         "endDate":"2019-01-01",
+         "summary":"SRE & Cloud Architecture of backend APIs, IT, Operations, Concept. Reporting and liaising directly with CEO & external stakeholders",
          "highlights":[
             "Scaled, monitored and developed all backend infrastructure",
             "Migrated application services into containers (Docker)",
@@ -254,36 +270,23 @@
          "name":"BackEnd Web Development",
          "level":"Master",
          "keywords":[
-            "MySQL 5.5 - 5.7",
-            "MongoDB",
+            "PHP",
+            "MySQL",
             "Redis",
 	    "SphinxSearch",
 	    "ManticoreSearch",
 	    "Docker",
-	    "Docker Swarm",
-            "Adobe AMF",
-            "PHP ZendFramework 1",
-	    "Custom PHP Frameworks / MVC",
-            "PHP 5.5 - 7.2",
             "Beanstalkd",
             "RabbitMQ",
 	    "Gearman",
-            "AMQP & MQTT",
-            "Vagrant",
+            "AMQP",
+	    "MQTT",
             "Puppet",
 	    "Nginx",
             "Git",
-            "JSON-RPC",
 	    "PHPUnit",
-	    "Curl",
-	    "Grep",
 	    "Bash",
-	    "Sysctl/Systemd",
-	    "Guzzle",
-	    "PHPStorm",
-	    "Vim",
-	    "Emacs",
-	    "SublimeText"
+	    "Guzzle"
          ]
       },
       {
@@ -359,7 +362,7 @@
       },
       {
          "language":"Polish",
-         "fluency":"Elementary"
+         "fluency":"Proficient"
       },
       {
          "language":"Ukrainian",
