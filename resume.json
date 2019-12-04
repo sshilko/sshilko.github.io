@@ -60,7 +60,9 @@
             "Updated messaging realtime server, reworked authorization, added web/js client support",
             "Added support for gifting, in-app purchases, subscription hold, grace periods, geo-search",
             "Integrated NewRelic Infrastructure monitoring",
-            "Hired, onboarded new team members"
+	    "Designed and implemented scalable cloud-based solutions on AWS",
+	    "Increased application infrastructure and performance monitoring automation",
+            "Hired, onboarded and mentored new team members"
          ]
       },
       {
@@ -78,7 +80,7 @@
             "Promoted AWS Best Practices, AWS Well-Architected",
             "China and SEA connectivity improved, ICP/Hosting issues resolved",
             "Refactored, maintaned and upgraded application code and infrastructure",
-	        "Added more analytics, KPI & revenue, retention and engagement tracking",
+            "Added more analytics, KPI & revenue, retention and engagement tracking",
             "Migrated from PHP 5.4 to 7.2, Ubuntu 12 to Debian 9, AWS EC2-Classic to VPC",
             "Hired, onboarded and directly managed new dev members",
 	    "Enforced unit & integration testing, code review & code style policies"
