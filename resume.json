@@ -247,14 +247,15 @@
    ],
    "skills":[
       {
-         "name":"FrontEnd Web Development",
+         "name":"FrontEnd Development",
          "level":"Master",
          "keywords":[
             "HTML",
             "CSS",
             "Javascript",
             "jQuery",
-            "SEO"
+            "SEO",
+	    "XML"
          ]
       },
 
@@ -269,10 +270,11 @@
       },
      
       {
-         "name":"BackEnd Web Development",
+         "name":"BackEnd Development",
          "level":"Master",
          "keywords":[
             "PHP",
+	    "Go",
             "MySQL",
             "Redis",
 	    "SphinxSearch",
@@ -288,7 +290,10 @@
             "Git",
 	    "PHPUnit",
 	    "Bash",
-	    "Guzzle"
+	    "Guzzle",
+	    "MongoDB",
+	    "SOAP",
+	    "JsonRpc"
          ]
       },
       {
@@ -300,6 +305,7 @@
             "Lambda",
             "S3",
             "RDS",
+	    "DynamoDB",
             "ElastiCache",
             "VPC",
             "CloudFront",
@@ -319,7 +325,8 @@
             "SNS",
 	    "Mobile Hub",
 	    "PinPoint",
-	    "WorkMail"
+	    "WorkMail",
+	    "AWS Organizations"
          ]
       },
       {
@@ -360,7 +367,7 @@
      },
       {
          "language":"German",
-         "fluency":"Upper Intermediate"
+         "fluency":"Upper Intermediate / B2"
       },
       {
          "language":"Polish",
@@ -392,7 +399,7 @@
       {
          "name":"Traveling",
          "keywords":[
-            "Greece", "Spain", "Georgia", "Germany", "Poland", "Greek islands", "Lithuania", "Russia", "Egypt"
+            "Greece", "Spain", "Georgia", "Germany", "Poland", "Greek islands", "Lithuania", "Russia", "Egypt", "Bulgaria"
          ]
       },
       {
@@ -404,7 +411,7 @@
          "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
             "Best practices", "High performance", "IT novels", "Marketing and selling high-tech products", "Scalable and maintainable systems", "Algorithms",
             "Managing successful projects", "Building teams", "Software architect wisdom", "Isaac Asimov", "Robert Heinlein", "George Orwell", "Terry Goodkind",
-            "Alan Kuper", "Tom DeMarco"
+            "Alan Kuper", "Tom DeMarco", "The Code Culture"
          ]
       },
       {
