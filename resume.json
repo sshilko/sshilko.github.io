@@ -1,15 +1,15 @@
 {
    "basics":{
       "name":"Sergei Shilko",
-      "label":"Tech Lead, software architect, developer advocate",
+      "label":"Head of Engineering. AWS Certified Solutions Architect",
       "picture":"http://sshilko.com/shilko_avatar_400x400.jpg",
       "email":"contact@sshilko.com",
       "phone":"",
       "website":"http://sshilko.com",
-      "summary":"Hi, I am Sergei Shilko, i graduated in 2010 MS Psychology with study on role of personal characteristics in a successful Software/IT career. Since first year in university i already worked for IT company and now i have more than 10 years of experience in Web/IT engineering. I managed work on multiple software projects ranging from small plugins and internal IT systems to build from scratch backend systems for high load. My expertise domains are Web, Mobile and APIs for backend applications.  I like to solve technical and business problems with focus on client requirements and working closely with product teams.",
+      "summary":"2010 graduate Masters Psychology with study on successful careers in IT. 15 years programming, in Berlin since 2013. AWS Certified Solutions Architect.",
       "location":{
          "address":"",
-         "postalCode":"",
+         "postalCode":"10409",
          "city":"Berlin",
          "countryCode":"Germany",
          "region":""
@@ -52,7 +52,23 @@
          "company":"Tripod Technlogy GmbH",
          "position":"Head of Engineering",
          "website":"https://www.tandem.net",
+         "startDate":"2020-01-01",
+         "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
+         "highlights":[
+            "Migrated backend to PHP 7.4 Go 1.14 Docker 19",
+            "Supervised development of serverless microservices Java/Kotlin/Golang DynamoDB",
+            "Split monorepository into multiple separate repositories with separate CI/CD",
+            "Reduced AWS operation costs",
+            "Multiple refactoring projects in code, infrastructure, raw storage and databases",
+            "Ongoing development of application features, growth analytics and internal tooling"
+         ]
+      },
+      {
+         "company":"Tripod Technlogy GmbH",
+         "position":"Head of Engineering",
+         "website":"https://www.tandem.net",
          "startDate":"2019-01-01",
+         "endDate":"2020-01-01",
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
          "highlights":[
             "Migrated to PHP 7.3, deprecated and reduced dependencies",
@@ -60,8 +76,8 @@
             "Updated messaging realtime server, reworked authorization, added web/js client support",
             "Added support for gifting, in-app purchases, subscription hold, grace periods, geo-search",
             "Integrated NewRelic Infrastructure monitoring",
-	    "Designed and implemented scalable cloud-based solutions on AWS",
-	    "Increased application infrastructure and performance monitoring automation",
+	        "Designed and implemented scalable cloud-based solutions on AWS",
+	        "Increased application infrastructure and performance monitoring automation",
             "Hired, onboarded and mentored new team members"
          ]
       },
@@ -83,7 +99,7 @@
             "Added more analytics, KPI & revenue, retention and engagement tracking",
             "Migrated from PHP 5.4 to 7.2, Ubuntu 12 to Debian 9, AWS EC2-Classic to VPC",
             "Hired, onboarded and directly managed new dev members",
-	    "Enforced unit & integration testing, code review & code style policies"
+	        "Enforced unit & integration testing, code review & code style policies"
          ]
       },
       {
@@ -189,7 +205,7 @@
    "education":[
       {
          "institution":"Grodnenski Dzjaržauny Universitet imja Janki Kupaly",
-         "area":"Psychology ",
+         "area":"Psychology",
          "studyType":"Personal characteristics of successful Software Engineers",
          "startDate":"2005-09-01",
          "endDate":"2010-09-01",
@@ -225,22 +241,16 @@
    ],
    "awards":[
       {
-         "title":"Yearly city college IT competition",
-         "date":"2003-01-01",
-         "awarder":"1st place",
-         "summary":"Local city contest across different education institutions"
-      },
-      {
-         "title":"Yearly country IT competition",
-         "date":"2005-01-01",
-         "awarder":"3rd place",
-         "summary":"Country contest across all education institutions from all regions"
-      },
-      {
          "title": "AWS Certified Solutions Architect - Associate (SAA)",
          "date": "2018-12-13",
          "awarder": "3GV5K7KKC14Q17W1",
          "Summary": "The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform"
+      },
+      {
+         "title": "Telc Deutsch B1 Zertifikat",
+         "date": "2018-05-01",
+         "awarder": "0503718",
+         "Summary": "Telc GmbH - The European Language Certificates"
       }
    ],
    "publications":[
@@ -249,51 +259,31 @@
       {
          "name":"FrontEnd Development",
          "level":"Master",
-         "keywords":[
-            "HTML",
-            "CSS",
-            "Javascript",
-            "jQuery",
-            "SEO",
-	    "XML"
-         ]
+         "keywords":[]
       },
 
-      {
-         "name":"Backend JS Development",
-         "level":"Beginner",
-         "keywords":[
-            "NodeJS",
-            "PhantomJS",
-            "NightmareScript"
-         ]
-      },
-     
       {
          "name":"BackEnd Development",
          "level":"Master",
          "keywords":[
             "PHP",
-	    "Go",
+	        "Go",
             "MySQL",
             "Redis",
-	    "SphinxSearch",
-	    "ManticoreSearch",
-	    "Docker",
+	        "SphinxSearch",
+	        "ManticoreSearch",
+	        "Docker",
             "Beanstalkd",
             "RabbitMQ",
-	    "Gearman",
             "AMQP",
-	    "MQTT",
+	        "MQTT",
             "Puppet",
-	    "Nginx",
+	        "Nginx",
             "Git",
-	    "PHPUnit",
-	    "Bash",
-	    "Guzzle",
-	    "MongoDB",
-	    "SOAP",
-	    "JsonRpc"
+            "PHPUnit",
+            "MongoDB",
+            "SOAP",
+            "JsonRPC"
          ]
       },
       {
@@ -305,7 +295,7 @@
             "Lambda",
             "S3",
             "RDS",
-	    "DynamoDB",
+            "DynamoDB",
             "ElastiCache",
             "VPC",
             "CloudFront",
@@ -323,10 +313,10 @@
             "WAF & Shield",
             "SQS",
             "SNS",
-	    "Mobile Hub",
-	    "PinPoint",
-	    "WorkMail",
-	    "AWS Organizations"
+            "Mobile Hub",
+            "PinPoint",
+            "WorkMail",
+            "AWS Organizations"
          ]
       },
       {
@@ -334,25 +324,20 @@
          "level":"Master",
          "keywords":[
             "Github",
-            "SVN, Mercurial",
+            "Git, SVN, Mercurial",
             "NewRelic",
-            "Debian",
-            "Alpine Linux",
-            "Amazon Linux",
-	    "Arch Linux",
-            "Ubuntu",
-            "Gentoo",
-	    "Mac OS",
+            "Debian,Alpine,Amazon,Arch,Ubuntu,Gentoo,... Linux",
+            "Mac OS",
             "Facebook API",
             "Apple APNS",
             "Google FCM",
-	    "Alipay Payments",
-	    "Baidu PN",
-	    "Google & iTunes Payments",
-	    "Stripe, Paypal Payments",
-            "OpenTOK",
+            "Alipay Payments",
+            "Baidu PN",
+            "Google & iTunes IAM & Subscriptions",
+            "Stripe, Paypal",
+            "OpenTOK, WebRTC",
             "SparkPost, Mandrill",
-	    "Kubernetes"
+            "Kubernetes"
          ]
       }
    ],
@@ -361,13 +346,13 @@
          "language":"English",
          "fluency":"Proficient"
       },
-     {
-       "language":"Russian",
-       "fluency":"Proficient"
-     },
+      {
+        "language":"Russian",
+        "fluency":"Proficient"
+      },
       {
          "language":"German",
-         "fluency":"Upper Intermediate / B2"
+         "fluency":"B2"
       },
       {
          "language":"Polish",
@@ -384,18 +369,17 @@
    ],
    "interests":[
       {  "name":"Conferences",
-	 "keywords":[
+	     "keywords":[
 		 "Belin - AWS Summit 2014", "Belin - AWS Summit 2015",
 		 "Belin - AWS Summit 2016", "Berlin - AWS Summit 2017", "KubeCon + CloudNativeCon 2018", "Berlin - AWS Summit 2019",
 		 "KubeCon + CloudNativeCon 2019"
-	 ]
+	     ]
       },
       {  "name":"Podcasts and Forums",
          "keywords":[
                  "Golang - Golangshow", "Radio-T", "IXBT", "Habr"
          ]
       }, 
-      
       {
          "name":"Traveling",
          "keywords":[
@@ -411,7 +395,7 @@
          "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
             "Best practices", "High performance", "IT novels", "Marketing and selling high-tech products", "Scalable and maintainable systems", "Algorithms",
             "Managing successful projects", "Building teams", "Software architect wisdom", "Isaac Asimov", "Robert Heinlein", "George Orwell", "Terry Goodkind",
-            "Alan Kuper", "Tom DeMarco", "The Code Culture"
+            "Alan Kuper", "Tom DeMarco", "The Code Culture", "Microservices Patterns"
          ]
       },
       {
