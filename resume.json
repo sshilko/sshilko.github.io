@@ -55,12 +55,16 @@
          "startDate":"2020-01-01",
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
          "highlights":[
-            "Migrated backend to PHP 7.4 Go 1.14 Docker 19",
-            "Supervised development of serverless microservices Java/Kotlin/Golang DynamoDB",
+            "Migrated backend to PHP 7.4 Go 1.14 Docker 19, PHPUnit 9",
+            "Supervised development of serverless microservices Java/Kotlin/Golang & DynamoDB",
             "Split monorepository into multiple separate repositories with separate CI/CD",
             "Reduced AWS operation costs",
-            "Multiple refactoring projects in code, infrastructure, raw storage and databases",
-            "Ongoing development of application features, growth analytics and internal tooling"
+            "Executed multiple refactoring projects in code, infrastructure, raw storage and databases",
+            "Developed more application features, growth analytics and internal tooling, while reducing overall codebase amount and increasing quality",
+            "Architected new high-performance group messaging backend with Kafka, Cassandra/MCS, DynamoDB",
+            "Improved cross-team cooperations, JIRA usage patters. Created backend 2020 Roadmap",
+            "Hired for new AI/ML, DevOps roles",
+            "Launched new Tandem Certificates product"
          ]
       },
       {
