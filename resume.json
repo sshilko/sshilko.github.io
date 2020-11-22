@@ -246,6 +246,12 @@
    ],
    "awards":[
       {
+         "title": "AWS Certified Cloud Practitioner",
+         "date": "2020-11-21",
+         "awarder": "3B28554BK2EQ1PSD",
+         "Summary": "The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications"
+      },	   
+      {
          "title": "AWS Certified Solutions Architect - Associate (SAA)",
          "date": "2018-12-13",
          "awarder": "3GV5K7KKC14Q17W1",
