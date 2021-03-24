@@ -1,7 +1,7 @@
 {
    "basics":{
       "name":"Sergei Shilko",
-      "label":"Head of Engineering. AWS Certified Solutions Architect",
+      "label":"Head of Production Services. AWS Certified Solutions Architect",
       "picture":"http://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
       "phone":"",
@@ -50,9 +50,19 @@
    "work":[
       {
          "company":"Tripod Technlogy GmbH",
+         "position":"Head of Production Services",
+         "website":"https://www.tandem.net",
+         "startDate":"2021-03-01",
+         "summary":"Ensure that the business is capable of building and running software at scale",
+         "highlights":[
+         ]
+      },      
+      {
+         "company":"Tripod Technlogy GmbH",
          "position":"Head of Engineering",
          "website":"https://www.tandem.net",
          "startDate":"2020-01-01",
+         "endDate":"2021-03-01",         
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
          "highlights":[
             "Migrated backend to PHP 7.4 Go 1.14 Docker 19, PHPUnit 9",
