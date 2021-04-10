@@ -8,15 +8,15 @@ choco install nodejs
 brew install node
 npm install resume-cli
 npm update -g resume-cli
-npm install -g jsonresume-theme-elegant
+npm install -g jsonresume-theme-paper
 
-#https://www.npmjs.com/search?q=jsonresume-theme-elegant
-resume export -t elegant index.html
+#https://www.npmjs.com/search?q=jsonresume-theme-paper
+resume export -t paper index.html
 
 #theme renderer
-git clone https://github.com/sshilko/jsonresume-theme-elegant.git
+git clone https://github.com/sshilko/jsonresume-theme-paper.git
 npm install grunt-cli
-cd jsonresume-theme-elegant
+cd jsonresume-theme-paper
 npm install
 
 #copy resume.json, run `grunt exec:build`
@@ -27,4 +27,4 @@ https://topdf.org/url
 
 # Linux/Docker
 docker pull fixl/json-resume
-docker run --rm -it -v $(pwd):/src fixl/json-resume export --theme elegant --format html index.html
+docker run --rm -it -v $(pwd):/src fixl/json-resume export --theme paper --format html index.html
