@@ -1,50 +1,35 @@
 {
    "basics":{
       "name":"Sergei Shilko",
-      "label":"Head of Production Services. AWS Certified Solutions Architect",
+      "label":"Head of Production Services",
+      "url": "http://sshilko.com",
       "picture":"http://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
-      "phone":"",
       "website":"http://sshilko.com",
-      "summary":"2010 graduate Masters Psychology with study on successful careers in IT. 15 years programming, in Berlin since 2013. AWS Certified Solutions Architect.",
+      "summary":"IT Professional with 15+ years experience. Specialize in backends, mobile APIs and AWS platform.",
       "location":{
          "address":"",
-         "postalCode":"10409",
-         "city":"Berlin",
-         "countryCode":"Germany",
-         "region":""
+         "postalCode":"12627",
+         "region": "Berlin"
       },
       "profiles":[
-         {
-            "network":"Twitter",
-            "title": "Twitter",
-            "username":"sshilko",
-            "url":"https://twitter.com/sshilko"
-         },
-         {
-            "network":"Github",
-            "title": "Github",
-            "username":"sshilko",
-            "url":"https://github.com/sshilko"
-         },
-         {
-            "network":"LinkedIn",
-            "title": "LinkedIn",
-            "username":"sergeyshilko",
-            "url":"https://www.linkedin.com/in/sergeyshilko/"
-         },
         {
-          "network":"Profile",
-          "title": "CV",
-          "username":"",
-          "url":"http://www.sshilko.com/sshilko.com.pdf"
+           "network":"Github",
+           "title": "Github",
+           "username":"sshilko",
+           "url":"https://github.com/sshilko"
         },
         {
-          "network":"Book",
-          "title": "Blog",
-          "username":"",
-          "url":"http://moar.sshilko.com"
-        }
+           "network":"LinkedIn",
+           "title": "LinkedIn",
+           "username":"sergeyshilko",
+           "url":"https://www.linkedin.com/in/sergeyshilko/"
+        },
+        {
+         "network":"Blog",
+         "title": "Blog",
+         "url":"https://moar.sshilko.com"
+      }        
       ]
    },
    "work":[
@@ -61,60 +46,31 @@
          "company":"Tripod Technlogy GmbH",
          "position":"Head of Engineering",
          "website":"https://www.tandem.net",
-         "startDate":"2020-01-01",
+         "startDate":"2016-01-01",
          "endDate":"2021-03-01",         
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
          "highlights":[
-            "Migrated backend to PHP 7.4 Go 1.14 Docker 19, PHPUnit 9",
-            "Supervised development of serverless microservices Java/Kotlin/Golang & DynamoDB",
+            "Updated codebase to PHP 7.4 Go 1.14 Docker 19, PHPUnit 9",
+            "Developed serverless microservices in Java/Kotlin/Golang & DynamoDB",
             "Split monorepository into multiple separate repositories with separate CI/CD",
             "Reduced AWS operation costs",
             "Executed multiple refactoring projects in code, infrastructure, raw storage and databases",
-            "Developed more application features, growth analytics and internal tooling, while reducing overall codebase amount and increasing quality",
             "Architected new high-performance group messaging backend with Kafka, Cassandra/MCS, DynamoDB",
-            "Improved cross-team cooperations, JIRA usage patters",
-            "Created backend 2020 Roadmap, Technology Radar (ThoughtWorks)",
-            "Hired for new AI/ML, DevOps roles",
-            "Launched new Tandem Certificates product"
-         ]
-      },
-      {
-         "company":"Tripod Technlogy GmbH",
-         "position":"Head of Engineering",
-         "website":"https://www.tandem.net",
-         "startDate":"2019-01-01",
-         "endDate":"2020-01-01",
-         "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
-         "highlights":[
-            "Migrated to PHP 7.3, deprecated and reduced dependencies",
+            "Created backend roadmap and technology radar (ThoughtWorks)",
+            "Hired AI/ML, Data, Backend roles",
+            "Launched new Tandem Certificates product",
             "Improved analytics in subscriptions and revenue tracking",
-            "Updated messaging realtime server, reworked authorization, added web/js client support",
-            "Added support for gifting, in-app purchases, subscription hold, grace periods, geo-search",
-            "Integrated NewRelic Infrastructure monitoring",
-	        "Designed and implemented scalable cloud-based solutions on AWS",
-	        "Increased application infrastructure and performance monitoring automation",
-            "Hired, onboarded and mentored new team members"
-         ]
-      },
-      {
-         "company":"Tripod Technlogy GmbH",
-         "position":"Head of Engineering",
-         "website":"https://www.tandem.net",
-         "startDate":"2016-06-01",
-         "endDate":"2019-01-01",
-         "summary":"SRE & Cloud Architecture of backend APIs, IT, Operations, Concept. Reporting and liaising directly with CEO & external stakeholders",
-         "highlights":[
-            "Scaled, monitored and developed all backend infrastructure",
+            "Updated messaging realtime server, reworked authorization, added 3rd web/js client support",
+            "Added support for in-app purchase gifting, subscription hold, grace periods, geo-search.",
+            "Increased application infrastructure and performance monitoring automation",
             "Migrated application services into containers (Docker)",
             "Experimented with K8S, Rancher, Swarm orchestration",
             "Built full CI/CD pipeline on AWS Pipeline inc. Blue/Green deployments and AutoScaling",
             "Promoted AWS Best Practices, AWS Well-Architected",
             "China and SEA connectivity improved, ICP/Hosting issues resolved",
-            "Refactored, maintaned and upgraded application code and infrastructure",
-            "Added more analytics, KPI & revenue, retention and engagement tracking",
-            "Migrated from PHP 5.4 to 7.2, Ubuntu 12 to Debian 9, AWS EC2-Classic to VPC",
-            "Hired, onboarded and directly managed new dev members",
-	        "Enforced unit & integration testing, code review & code style policies"
+            "Improved overall KPI, retention, engagement and revenue tracking",
+            "Update internal systems to Debian 9, AWS VPC",
+            "Enforced unit & integration testing, code review & code style policies"
          ]
       },
       {
@@ -150,20 +106,8 @@
          ]
       },
       {
-         "company":"Cygno Solutions LLC",
-         "position":"Contractor",
-         "website":"https://cygno.com/",
-         "startDate":"2011-09-01",
-         "endDate":"2011-11-01",
-         "summary":"Short term freelance experience, integrating payment gateways and external API into existing project",
-         "highlights":[
-            "Added PayPal integration into existing project",
-            "Added DineroMail (South America Payment platform) integration into existing project"
-         ]
-      },
-      {
          "company":"eHarmony, Inc",
-         "position":"PHP Developer",
+         "position":"Software Engineer",
          "website":"https://www.eharmony.com",
          "startDate":"2008-08-01",
          "endDate":"2011-09-01",
@@ -179,11 +123,11 @@
       },
       {
          "company":"IponWeb",
-         "position":"Software Developer",
+         "position":"Software Engineer",
          "website":"https://www.iponweb.com/",
          "startDate":"2007-08-01",
          "endDate":"2011-09-01",
-         "summary":"SOAP/Rest API for real-time AD Exchange platform (formerly RightMedia.com)",
+         "summary":"SOAP/Rest API for real-time AD Exchange platform - RightMedia",
          "highlights":[
             "Worked on SOAP-API for high-load real-time advertising platform at scale",
             "Heavily extended and rewrote existing funtional test coverage, integrational e2e testing",
@@ -192,75 +136,33 @@
       },
       {
          "company":"Yahoo!",
-         "position":"Contractor",
+         "position":"Software Engineer",
          "website":"https://yahoo.com",
          "startDate":"2008-05-01",
          "endDate":"2009-03-01",
-         "summary":"Maintaining RightMedia AD Exchange API migration after Yahoo! purchase",
+         "summary":"AD Exchange API - RightMedia",
          "highlights":[
-            "Refactoring tests, code and documentation, working with remote Yahoo developers team"
-         ]
-      },
-      {
-         "company":"Sinytech LLC",
-         "position":"Intern, Developer",
-         "website":"",
-         "startDate":"2005-12-01",
-         "endDate":"2007-08-01",
-         "summary":"E-commerce websites for multiple clients/brands",
-         "highlights":[
-            "Learned CGI, HTML, CSS - Web and IT",
-            "Worked on custom CMS",
-            "Integrated VeriSign payment processor",
-            "Extended existing CMS codebase (MVC) with new functionality",
-            "Implemented and released in production multiple e-commerce projects based on common CMS/framework"
+            "Refactoring tests, code and documentation, working with remote Yahoo developers team. SOAP API. Perl. PHP5"
          ]
       }
    ],
    "education":[
       {
-         "institution":"Grodnenski Dzjaržauny Universitet imja Janki Kupaly",
-         "area":"Psychology",
-         "studyType":"Personal characteristics of successful Software Engineers",
+         "institution":"Grodnenski Dzjaržauny Universitet",
+         "area":"Experimental psychology",
+         "studyType":"MSc Psychologe Pädagoge",
          "startDate":"2005-09-01",
-         "endDate":"2010-09-01",
-         "gpa":"",
-         "courses":[
-            "Cognitive psychology",
-            "Psychodiagnostics",
-            "Experimental psychology"
-         ]
+         "endDate":"2010-09-01"
       },
       {
-         "institution":"GGPEK Technical College",
-         "area":"Electrical engineering",
-         "studyType":"High voltage electrical relays and automation controls",
-         "startDate":"2003-09-01",
-         "endDate":"2005-09-01",
-         "gpa":"",
-         "courses":[
-            "High voltage engineering"
-         ]
-      },
-      {
-         "institution":"Community College",
-         "area":"Electrical engineering",
-         "studyType":"",
+         "institution":"GGPEK Elektrotechnik College",
+         "area":"Elektrische Energietechnik (Power engineering)",
+         "studyType": "MSc Electrical Engineering",
          "startDate":"2000-09-01",
-         "endDate":"2003-09-01",
-         "gpa":"",
-         "courses":[
-
-         ]
+         "endDate":"2005-09-01"
       }
    ],
    "awards":[
-      {
-         "title": "AWS Certified Cloud Practitioner",
-         "date": "2020-11-21",
-         "awarder": "3B28554BK2EQ1PSD",
-         "Summary": "The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications"
-      },	   
       {
          "title": "AWS Certified Solutions Architect - Associate (SAA)",
          "date": "2018-12-13",
@@ -272,104 +174,27 @@
          "date": "2018-05-01",
          "awarder": "0503718",
          "Summary": "Telc GmbH - The European Language Certificates"
+      },
+      {
+         "title": "AWS Certified Cloud Practitioner",
+         "date": "2020-11-21",
+         "awarder": "3B28554BK2EQ1PSD",
+         "Summary": "The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications"
       }
+      
    ],
    "publications":[
    ],
    "skills":[
-      {
-         "name":"FrontEnd Development",
-         "level":"Master",
-         "keywords":[]
-      },
-
-      {
-         "name":"BackEnd Development",
-         "level":"Master",
-         "keywords":[
-            "PHP",
-	        "Go",
-            "MySQL",
-            "Redis",
-	        "SphinxSearch",
-	        "ManticoreSearch",
-	        "Docker",
-            "Beanstalkd",
-            "RabbitMQ",
-            "AMQP",
-	        "MQTT",
-            "Puppet",
-	        "Nginx",
-            "Git",
-            "PHPUnit",
-            "MongoDB",
-            "SOAP",
-            "JsonRPC"
-         ]
-      },
-      {
-         "name":"AWS Cloud",
-         "level":"Master",
-         "keywords":[
-            "EC2",
-            "ELB",
-            "Lambda",
-            "S3",
-            "RDS",
-            "DynamoDB",
-            "ElastiCache",
-            "VPC",
-            "CloudFront",
-            "Route 53",
-            "API Gateway",
-            "CodeCommit",
-            "CodeBuild",
-            "CodeDeploy",
-            "CodePipeline",
-            "CloudWatch",
-            "IAM",
-            "ECR",
-            "Cognito",
-            "Certificate Manager",
-            "WAF & Shield",
-            "SQS",
-            "SNS",
-            "Mobile Hub",
-            "PinPoint",
-            "WorkMail",
-            "AWS Organizations"
-         ]
-      },
-      {
-         "name":"Other",
-         "level":"Master",
-         "keywords":[
-            "Github",
-            "Git, SVN, Mercurial",
-            "NewRelic",
-            "Debian,Alpine,Amazon,Arch,Ubuntu,Gentoo,... Linux",
-            "Mac OS",
-            "Facebook API",
-            "Apple APNS",
-            "Google FCM",
-            "Alipay Payments",
-            "Baidu PN",
-            "Google & iTunes IAM & Subscriptions",
-            "Stripe, Paypal",
-            "OpenTOK, WebRTC",
-            "SparkPost, Mandrill",
-            "Kubernetes"
-         ]
-      }
    ],
    "languages":[
       {
          "language":"English",
-         "fluency":"Proficient"
+         "fluency":"Fluent"
       },
       {
         "language":"Russian",
-        "fluency":"Proficient"
+        "fluency":"Native"
       },
       {
          "language":"German",
@@ -377,57 +202,15 @@
       },
       {
          "language":"Polish",
-         "fluency":"Proficient"
+         "fluency":"B1"
       },
       {
          "language":"Ukrainian",
-         "fluency":"Elementary"
+         "fluency":"A1"
       },
       {
          "language":"Belarussian",
-         "fluency":"Proficient"
-      }
-   ],
-   "interests":[
-      {  "name":"Conferences",
-	     "keywords":[
-		 "Belin - AWS Summit 2014", "Belin - AWS Summit 2015",
-		 "Belin - AWS Summit 2016", "Berlin - AWS Summit 2017", "KubeCon + CloudNativeCon 2018", "Berlin - AWS Summit 2019",
-		 "KubeCon + CloudNativeCon 2019"
-	     ]
-      },
-      {  "name":"Podcasts and Forums",
-         "keywords":[
-                 "Golang - Golangshow", "Radio-T", "IXBT", "Habr"
-         ]
-      }, 
-      {
-         "name":"Traveling",
-         "keywords":[
-            "Greece", "Spain", "Georgia", "Germany", "Poland", "Greek islands", "Lithuania", "Russia", "Egypt", "Bulgaria"
-         ]
-      },
-      {
-         "name":"PC Geek",
-         "keywords":["Modding", "HTPC", "Raspberry Pi", "ZX Spectrum", "Retro", "LAN & Wireless"]
-      },
-      {
-         "name":"Reading",
-         "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
-            "Best practices", "High performance", "IT novels", "Marketing and selling high-tech products", "Scalable and maintainable systems", "Algorithms",
-            "Managing successful projects", "Building teams", "Software architect wisdom", "Isaac Asimov", "Robert Heinlein", "George Orwell", "Terry Goodkind",
-            "Alan Kuper", "Tom DeMarco", "The Code Culture", "Microservices Patterns"
-         ]
-      },
-      {
-         "name":"eSports",
-         "keywords":[ "Twitch", "International", "Competitive teams", "Broadcasting", "Analytics"]
-      }
-   ],
-   "references":[
-      {
-         "name":"Arnd Aschentrup / CEO Tripod Technology GmbH",
-         "reference":""
+         "fluency":"C1"
       }
    ]
 }
