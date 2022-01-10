@@ -35,53 +35,33 @@
    "work":[
       {
          "company":"Tripod Technlogy GmbH",
-         "position":"Head of Production Services",
-         "website":"https://www.tandem.net",
-         "startDate":"2021-03-01",
-         "summary":"Ensure that the business is capable of building and running software at scale",
-         "highlights":[
-            "Ensured backend infrastructure is both available and scalable",
-            "Accepted and released new features and enforced that they are production quality",
-            "Cost-effectively scaled existing infrastructure",
-            "Managed a team of backend and frontend developers, consulted cross functional teams on implementation details",
-            "Migrated from monolit to service oriented architecture",
-            "Supervised development of new platform services and modernization of existing ones",
-            "Hired and onboarded new team members",
-            "Created & executed new processes inside department to better integrate with cross functional teams",
-            "Implemented and released backend for new ITERABLE marketing platform",
-            "Improved data exports to new data warehouse and web-client SEO systems",
-            "Architected new group chat platform based on AWS Keyspaces (Cassandra)"
-         ]
-      },      
-      {
-         "company":"Tripod Technlogy GmbH",
          "position":"Head of Engineering",
          "website":"https://www.tandem.net",
          "startDate":"2016-01-01",
-         "endDate":"2021-03-01",         
-         "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals",
+         "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals. Ensure that the business is capable of building and running software at scale",
          "highlights":[
-            "Updated codebase to PHP 7.4 Go 1.14 Docker 19, PHPUnit 9",
-            "Developed serverless microservices in Java/Kotlin/Golang & DynamoDB",
-            "Split monorepository into multiple separate repositories with separate CI/CD",
-            "Reduced AWS operation costs",
+            "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU",
+            "Scaled backend capacity from 1000's of users to >15M users",
+            "Applied cost savings plans and utilized AWS Spot instances to reduce costs by 32%",
+            "Hired multiple AI/ML, Data, Backend and devOPS engineers.",
+            "Migrated monolithic backend application into 15 independent services",
+            "Introduced Golang & AWS Keyspaces/Cassandra, DynamoDB for high-load group chat application storage",
+            "Promoted AWS Best Practices, executed AWS Well-Architected framework together with AWS solution architects",
+            "Managed >40 EC2 servers across 3 AWS regions, migrated from AWS EC2 Classic to AWS VPC",
+            "Updated codebase from PHP5 to PHP 7.4, Go 1.14 Docker 19, PHPUnit 9",
+            "Supervised development of serverless microservices in Java/Kotlin/Golang & DynamoDB",
+            "Split monorepository into >30 separate repositories with separate CI/CD",
             "Executed multiple refactoring projects in code, infrastructure, raw storage and databases",
-            "Architected new high-performance group messaging backend with Kafka, Cassandra/MCS, DynamoDB",
-            "Created backend roadmap and technology radar (ThoughtWorks)",
-            "Hired AI/ML, Data, Backend roles",
-            "Launched new Tandem Certificates product",
-            "Improved analytics in subscriptions and revenue tracking",
-            "Updated messaging realtime server, reworked authorization, added 3rd web/js client support",
+            "Maintained backend roadmap and technology radar tech-radar.opensource.tandem.net based on ThoughtWorks",
+            "Improved user retention analytics, subscriptions and overall revenue tracking",
+            "Updated realtime messaging server RabbitMQ, secured authorization, added 3rd web/js client support",
             "Added support for in-app purchase gifting, subscription hold, grace periods, geo-search.",
-            "Increased application infrastructure and performance monitoring automation",
-            "Migrated application services into containers (Docker)",
-            "Experimented with K8S, Rancher, Swarm orchestration",
-            "Built full CI/CD pipeline on AWS Pipeline inc. Blue/Green deployments and AutoScaling",
-            "Promoted AWS Best Practices, AWS Well-Architected",
-            "China and SEA connectivity improved, ICP/Hosting issues resolved",
-            "Improved overall KPI, retention, engagement and revenue tracking",
-            "Update internal systems to Debian 9, AWS VPC",
-            "Enforced unit & integration testing, code review & code style policies"
+            "Increased application infrastructure and performance/APM monitoring automation and alerting via NewRelic",
+            "Built full CI/CD pipeline on AWS Pipeline inc. Blue/Green deployments and AWS ASG/AutoScaling",
+            "Improved China & SEA connectivity via transparent HAProxy, ICP/Hosting issues resolved",
+            "Built internal business KPI, retention, engagement and revenue tracking systems",
+            "Enforced PHPUnit & integration testing, code reviews & code style policies",
+            "Migrated application services into containers (Docker)"
          ]
       },
       {
@@ -239,6 +219,7 @@
             "PHP",
             "MySQL",
             "Redis",
+            "Percona",
             "SphinxSearch",
             "ManticoreSearch",
             "Docker",
@@ -262,12 +243,12 @@
          "fluency":"Fluent"
       },
       {
-         "language":"German",
-         "fluency":"B2"
+         "language":"Russian",
+         "fluency":"Fluent"
       },
       {
-        "language":"Russian",
-        "fluency":"Native"
+         "language":"German",
+         "fluency":"B2"
       },
       {
          "language":"Polish",
@@ -275,11 +256,9 @@
       }
    ],
    "interests":[
-      {  "name":"Conferences",
+      {  "name":"Events",
          "keywords":[
-            "Belin - AWS Summit 2014", "Belin - AWS Summit 2015",
-            "Belin - AWS Summit 2016", "Berlin - AWS Summit 2017", "KubeCon + CloudNativeCon 2018", "Berlin - AWS Summit 2019",
-            "KubeCon + CloudNativeCon 2019"
+            "Belin - AWS Summit 2014, 2015, 2016, 2017, 2019", "KubeCon + CloudNativeCon 2018, 2019"
          ]
       },
       {  "name":"Podcasts and Forums",
