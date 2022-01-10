@@ -208,8 +208,7 @@
             "WorkMail",
             "Organizations",
             "DynamoDB",
-            "Secrets Manager",
-            "..."
+            "Secrets Manager"
          ]
       },
       {
@@ -232,8 +231,7 @@
             "Git",
             "PHPUnit",
             "NewRelic APM",
-            "HAProxy",
-            "..."
+            "HAProxy"
          ]
       }
    ],
