@@ -5,7 +5,7 @@
       "url": "http://sshilko.com",
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
-      "website":"http://sshilko.com",
+      "website":"sshilko.com",
       "summary":"IT Professional with 15+ years experience. Specialize in backends, mobile APIs and AWS platform.",
       "location":{
          "address":"",
@@ -29,7 +29,7 @@
          "network":"Blog",
          "title": "Blog",
          "url":"https://moar.sshilko.com"
-      }        
+        }
       ]
    },
    "work":[
@@ -40,6 +40,17 @@
          "startDate":"2021-03-01",
          "summary":"Ensure that the business is capable of building and running software at scale",
          "highlights":[
+            "Ensured backend infrastructure is both available and scalable",
+            "Accepted and released new features and enforced that they are production quality",
+            "Cost-effectively scaled existing infrastructure",
+            "Managed a team of backend and frontend developers, consulted cross functional teams on implementation details",
+            "Migrated from monolit to service oriented architecture",
+            "Supervised development of new platform services and modernization of existing ones",
+            "Hired and onboarded new team members",
+            "Created & executed new processes inside department to better integrate with cross functional teams",
+            "Implemented and released backend for new ITERABLE marketing platform",
+            "Improved data exports to new data warehouse and web-client SEO systems",
+            "Architected new group chat platform based on AWS Keyspaces (Cassandra)"
          ]
       },      
       {
@@ -186,6 +197,64 @@
    "publications":[
    ],
    "skills":[
+      {
+         "name":"AWS",
+         "level":"",
+         "keywords":[
+            "EC2",
+            "ELB",
+            "Lambda",
+            "S3",
+            "RDS",
+            "ElastiCache",
+            "VPC",
+            "CloudFront",
+            "Route 53",
+            "API Gateway",
+            "CodeCommit",
+            "CodeBuild",
+            "CodeDeploy",
+            "CodePipeline",
+            "CloudWatch",
+            "IAM",
+            "ECR",
+            "Cognito",
+            "Certificate Manager",
+            "WAF & Shield",
+            "SQS",
+            "SNS",
+            "Mobile Hub",
+            "PinPoint",
+            "WorkMail",
+            "Organizations",
+            "DynamoDB",
+            "Secrets Manager",
+            "..."
+         ]
+      },
+      {
+         "name":"Backend",
+         "level":"",
+         "keywords":[
+            "PHP",
+            "MySQL",
+            "Redis",
+            "SphinxSearch",
+            "ManticoreSearch",
+            "Docker",
+            "Beanstalkd",
+            "RabbitMQ",
+            "AMQP",
+            "MQTT",
+            "Puppet",
+            "Nginx",
+            "Git",
+            "PHPUnit",
+            "NewRelic APM",
+            "HAProxy",
+            "..."
+         ]
+      }
    ],
    "languages":[
       {
@@ -193,24 +262,48 @@
          "fluency":"Fluent"
       },
       {
-        "language":"Russian",
-        "fluency":"Native"
-      },
-      {
          "language":"German",
          "fluency":"B2"
       },
       {
+        "language":"Russian",
+        "fluency":"Native"
+      },
+      {
          "language":"Polish",
          "fluency":"B1"
+      }
+   ],
+   "interests":[
+      {  "name":"Conferences",
+         "keywords":[
+            "Belin - AWS Summit 2014", "Belin - AWS Summit 2015",
+            "Belin - AWS Summit 2016", "Berlin - AWS Summit 2017", "KubeCon + CloudNativeCon 2018", "Berlin - AWS Summit 2019",
+            "KubeCon + CloudNativeCon 2019"
+         ]
+      },
+      {  "name":"Podcasts and Forums",
+         "keywords":[
+            "Golang"
+         ]
       },
       {
-         "language":"Ukrainian",
-         "fluency":"A1"
+         "name":"Reading",
+         "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
+            "Best practices", "High performance", "IT novels", "Marketing and selling high-tech products", "Scalable and maintainable systems", "Algorithms",
+            "Managing successful projects", "Building teams", "Software architect wisdom", "Isaac Asimov", "Robert Heinlein", "George Orwell", "Terry Goodkind",
+            "Alan Kuper", "Tom DeMarco"
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Arnd Aschentrup / CEO Tripod Technology GmbH",
+         "reference":""
       },
       {
-         "language":"Belarussian",
-         "fluency":"C1"
+         "name":"Mark Dalby / CTO Tripod Technology GmbH",
+         "reference":""
       }
    ]
 }
