@@ -1,12 +1,12 @@
 {
    "basics":{
       "name":"Sergei Shilko",
-      "label":"Head of Production Services",
+      "label":"Head of Engineering",
       "url": "http://sshilko.com",
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
       "website":"sshilko.com",
-      "summary":"IT Professional with 15+ years experience. Specialize in backends, mobile APIs and AWS platform.",
+      "summary":"IT Professional with 15+ years experience in backends, mobile APIs and AWS platform.",
       "location":{
          "address":"",
          "postalCode":"12627",
@@ -40,7 +40,7 @@
          "startDate":"2016-01-01",
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals. Ensure that the business is capable of building and running software at scale",
          "highlights":[
-            "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU",
+            "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time",
             "Scaled backend capacity from 1000's of users to >15M users",
             "Applied cost savings plans and utilized AWS Spot instances to reduce costs by 32%",
             "Hired multiple AI/ML, Data, Backend and devOPS engineers.",
@@ -54,7 +54,7 @@
             "Executed multiple refactoring projects in code, infrastructure, raw storage and databases",
             "Maintained backend roadmap and technology radar tech-radar.opensource.tandem.net based on ThoughtWorks",
             "Improved user retention analytics, subscriptions and overall revenue tracking",
-            "Updated realtime messaging server RabbitMQ, secured authorization, added 3rd web/js client support",
+            "Updated realtime messaging server RabbitMQ, secured authorization, added 3rd websocket/MQTT browser client",
             "Added support for in-app purchase gifting, subscription hold, grace periods, geo-search.",
             "Increased application infrastructure and performance/APM monitoring automation and alerting via NewRelic",
             "Built full CI/CD pipeline on AWS Pipeline inc. Blue/Green deployments and AWS ASG/AutoScaling",
