@@ -6,7 +6,8 @@
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
       "website":"sshilko.com",
-      "summary":"IT Professional with 15+ years experience in backends, mobile APIs and AWS platform.",
+      "summary":"IT Professional with 15+ years experience in backends, mobile APIs and AWS platform. Recently i was working at Tandem: an online language exchange app to learn languages, chat, video call, book tutors, get certified in language and find new friends.",
+
       "location":{
          "address":"",
          "postalCode":"12627",
@@ -26,7 +27,7 @@
            "url":"https://www.linkedin.com/in/sergeyshilko/"
         },
         {
-         "network":"Blog",
+         "network":"codepen",
          "title": "Blog",
          "url":"https://moar.sshilko.com"
         }
@@ -35,7 +36,7 @@
    "work":[
       {
          "company":"Tripod Technlogy GmbH",
-         "position":"Head of Engineering",
+         "position":"Head of Engineering at Tandem",
          "website":"https://www.tandem.net",
          "startDate":"2016-01-01",
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals. Ensure that the business is capable of building and running software at scale",
@@ -66,7 +67,7 @@
       },
       {
          "company":"Tripod Technlogy GmbH",
-         "position":"Senior FullStack Software Developer",
+         "position":"Senior FullStack Software Developer at Tandem",
          "website":"https://www.tandem.net",
          "startDate":"2013-06-01",
          "endDate":"2016-06-01",
@@ -84,7 +85,7 @@
       },
       {
          "company":"Yangutu LLC",
-         "position":"Lead Software Developer",
+         "position":"Lead Software Developer at Yangutu LLC",
          "website":"https://meetville.com/",
          "startDate":"2011-11-01",
          "endDate":"2012-11-01",
@@ -98,7 +99,7 @@
       },
       {
          "company":"eHarmony, Inc",
-         "position":"Software Engineer",
+         "position":"Software Engineer at eHarmony Inc",
          "website":"https://www.eharmony.com",
          "startDate":"2008-08-01",
          "endDate":"2011-09-01",
@@ -114,7 +115,7 @@
       },
       {
          "company":"IponWeb",
-         "position":"Software Engineer",
+         "position":"Software Engineer at IponWeb",
          "website":"https://www.iponweb.com/",
          "startDate":"2007-08-01",
          "endDate":"2011-09-01",
@@ -127,7 +128,7 @@
       },
       {
          "company":"Yahoo!",
-         "position":"Software Engineer",
+         "position":"Software Engineer at Yahoo!",
          "website":"https://yahoo.com",
          "startDate":"2008-05-01",
          "endDate":"2009-03-01",
@@ -275,11 +276,11 @@
    ],
    "references":[
       {
-         "name":"Arnd Aschentrup / CEO Tripod Technology GmbH",
-         "reference":""
+         "name":"Arnd Aschentrup Co-Founder & CEO at Tandem / www.tandem.net",
+         "reference":"Sergei is an outstanding engineer! We have worked together very closely for more than 7 years and during this time Sergei played a decisive role in Tandem’s success. For example, Sergei built Tandem’s complex, high-load backend application, infrastructure and API initially single-handedly, later leading, mentoring and developing our growing backend engineering team. Our backend serves more than 10 million community members with close to perfect uptime, high efficiency and performance across four separate client applications. Sergei always goes above and beyond the day to day responsibilities to solve to a broad spectrum of engineering and IT challenges, such as connectivity for our members in mainland China, building analytics infrastructure + tools and working with all teams to find the best solutions."
       },
       {
-         "name":"Mark Dalby / CTO Tripod Technology GmbH",
+         "name":"Mark Dalby Chief Technology Officer at Tandem / www.tandem.net",
          "reference":""
       }
    ]
