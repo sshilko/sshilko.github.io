@@ -73,14 +73,15 @@
          "endDate":"2016-06-01",
          "summary":"Mature backend solutions for audio/video (tele)communications software. Developing public API for mobile clients.",
          "highlights":[
-            "Refactored of old inherited prototype codebase into working product, did first production release",
-	    "Celebrated first 50 users sign-up on GA dashboard and first promotions on iTunes",
-            "Implemented json-rpc API for mobile app based on Adobe Flex and added support later for native iOS & Android app",
-            "Deprecate legacy on-premise hosting and migration into AWS EC2-Classic",
-            "Celebrated 2015 Most innovative app of the year (Apple iTunes)",
-            "Implemented custom framework with open-source components",
+            "Implemented public API for native mobile clients",
+            "Refactored old MVP prototype codebase",
+            "Launched first production release 1.0",
+            "Celebrated first 50 users sign-up on GA and first promotions on iTunes",
+            "Deprecated legacy on-premise hosting and migrated into AWS EC2-Classic",
+            "Celebrated '2015 Most innovative app of the year' award (Apple iTunes)",
+            "Implemented PHP framework with open-source components",
             "Reduced API response times from >=2000ms to ~100ms",
-            "Implemented critical app functionality: messenger, userfeed, email-reminders, search and more"
+            "Implemented critical app functionality: in-app messenger, community userfeed, email-reminders, user search and more"
          ]
       },
       {
@@ -94,7 +95,7 @@
             "Added API for supporting external 3rd party Game-platform add-on's ",
             "Added AMF Flex/ActionScript API Server for import/export of data to mobile platform",
             "Added Facebook, Instagram, VK and other social networks integrations",
-            "Extended import/export API's"
+            "Extended user data import and export API's"
          ]
       },
       {
