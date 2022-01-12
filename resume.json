@@ -71,7 +71,7 @@
          "website":"https://www.tandem.net",
          "startDate":"2013-06-01",
          "endDate":"2016-06-01",
-         "summary":"Mature backend solutions for audio/video (tele)communications software. Developing public API for mobile clients.",
+         "summary":"Mature backend solutions for audio/video (tele)communications software. Developed public API for mobile clients.",
          "highlights":[
             "Implemented public API for native mobile clients",
             "Refactored old MVP prototype codebase",
@@ -108,10 +108,9 @@
          "highlights":[
             "Developed CMS/RMS Internal service from specification to manage and automate risks and fraud detection",
             "Working with sensitive client payment information",
-   	    "Extended CMS/RMS service with flexible and configurable multi-role authentication system for different regions",
+            "Extended CMS/RMS service with flexible and configurable multi-role authentication system for different regions",
             "Added support for localization and translation of CMS/RMS",
             "Added analytics and audit tools for tracking and optimizing team (users or the CMS/RMS) performance",
-   	    "Received feedback: UI/UX, bugs, new features suggestions and implemented"
          ]
       },
       {
