@@ -38,7 +38,7 @@
          "company":"Tripod Technlogy GmbH",
          "position":"Head of Engineering at Tandem Language Exchange App www.tandem.net",
          "website":"https://www.tandem.net",
-         "startDate":"2016-01-01",
+         "startDate":"2016-06-01",
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals. Ensure that the business is capable of building and running software at scale",
          "highlights":[
             "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time",
