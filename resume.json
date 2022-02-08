@@ -1,12 +1,12 @@
 {
    "basics":{
       "name":"Sergei Shilko",
-      "label":"Head of Engineering",
+      "label": "Creativity is Intelligence having fun - Albert Einstein",
       "url": "http://sshilko.com",
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
       "website":"sshilko.com",
-      "summary":"IT Professional with 15+ years experience in backends, mobile APIs and AWS platform. Recently i was working at Tandem: an online language exchange app to learn languages, chat, video call, book tutors, get certified in language and find new friends.",
+      "summary":"IT Professional with 15+ years experience in backends, mobile APIs and AWS platform. Recently worked at Tandem: online language exchange app to learn languages, chat, video call, book tutors, get certified in language and find new friends. Working with Docker, Microservices, API's, AWS, Scrum, PHP, Golang, Java, Serverless, Kubernetes. Experience with mobile devices, payments, video/audio calls, messaging, social networks, realtime systems, fraud detection, risk management, hiring, project management, engineering lead. Education domain.",
 
       "location":{
          "address":"",
@@ -15,13 +15,13 @@
       },
       "profiles":[
         {
-           "network":"Github",
+           "network":"github",
            "title": "Github",
            "username":"sshilko",
            "url":"https://github.com/sshilko"
         },
         {
-           "network":"LinkedIn",
+           "network":"linkedin",
            "title": "LinkedIn",
            "username":"sergeyshilko",
            "url":"https://www.linkedin.com/in/sergeyshilko/"
@@ -30,7 +30,13 @@
          "network":"codepen",
          "title": "Blog",
          "url":"https://moar.sshilko.com"
-        }
+        },
+        {
+         "network":"skype",
+         "title": "Consulting",
+         "url":"https://form.jotform.com/220382868963367",
+         "description": "Book a call"
+        }        
       ]
    },
    "work":[
@@ -39,6 +45,7 @@
          "position":"Head of Engineering at Tandem Language Exchange App www.tandem.net",
          "website":"https://www.tandem.net",
          "startDate":"2016-06-01",
+         "endDate":"2022-02-01",
          "summary":"Support backend code & infrastructure, grow & manage team, more analytics, long-term goals. Ensure that the business is capable of building and running software at scale",
          "highlights":[
             "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time",
@@ -110,7 +117,7 @@
             "Working with sensitive client payment information",
             "Extended CMS/RMS service with flexible and configurable multi-role authentication system for different regions",
             "Added support for localization and translation of CMS/RMS",
-            "Added analytics and audit tools for tracking and optimizing team (users or the CMS/RMS) performance",
+            "Added analytics and audit tools for tracking and optimizing team (users or the CMS/RMS) performance"
          ]
       },
       {
@@ -128,7 +135,7 @@
       },
       {
          "company":"Yahoo!",
-         "position":"Software Engineer at Yahoo! yahoo.com!",
+         "position":"Software Engineer at Yahoo! yahoo.com",
          "website":"https://yahoo.com",
          "startDate":"2008-05-01",
          "endDate":"2009-03-01",
@@ -156,21 +163,27 @@
    ],
    "awards":[
       {
+         "title": "Master Cloud-Native Infrastructure with Kubernetes",
+         "date": "2022-02-07",
+         "awarder": "Course by LinkedIn",
+         "Summary": "Get started with containers and Kubernetes, and build microservices architectures for reliability and resilience"
+      },
+      {
          "title": "AWS Certified Solutions Architect - Associate (SAA)",
          "date": "2018-12-13",
-         "awarder": "3GV5K7KKC14Q17W1",
+         "awarder": "Certificate #3GV5K7KKC14Q17W1",
          "Summary": "The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform"
       },
       {
          "title": "Telc Deutsch B1 Zertifikat",
          "date": "2018-05-01",
-         "awarder": "0503718",
+         "awarder": "Certificate #0503718",
          "Summary": "Telc GmbH - The European Language Certificates"
       },
       {
          "title": "AWS Certified Cloud Practitioner",
          "date": "2020-11-21",
-         "awarder": "3B28554BK2EQ1PSD",
+         "awarder": "Certificate #3B28554BK2EQ1PSD",
          "Summary": "The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications"
       }
       
@@ -223,6 +236,7 @@
             "SphinxSearch",
             "ManticoreSearch",
             "Docker",
+            "Kubernetes",
             "Beanstalkd",
             "RabbitMQ",
             "AMQP",
@@ -234,7 +248,27 @@
             "NewRelic APM",
             "HAProxy"
          ]
-      }
+      },
+      {
+         "name":"Leadership, SDM, SDLC",
+         "level":"",
+         "keywords":[
+            "Scrum",
+            "Agile",
+            "Team Lead",
+            "Project Manager",
+            "Head of Engineering",
+            "Backlog, Roadmap, Delivery",
+            "Hiring",
+            "Budgeting",
+            "Team building",
+            "Cross functional teams",
+            "Mentoring",
+            "Jira",
+            "Confluence",
+            "C4 Model"
+         ]
+      }      
    ],
    "languages":[
       {
@@ -242,16 +276,20 @@
          "fluency":"Fluent"
       },
       {
+         "language":"German",
+         "fluency":"B2 - Advanced"
+      },      
+      {
          "language":"Russian",
          "fluency":"Fluent"
       },
       {
-         "language":"German",
-         "fluency":"B2"
+         "language":"Belarusian",
+         "fluency":"Fluent"
       },
       {
          "language":"Polish",
-         "fluency":"B1"
+         "fluency":"B2 - Advanced"
       }
    ],
    "interests":[
@@ -260,9 +298,10 @@
             "Belin - AWS Summit 2014, 2015, 2016, 2017, 2019", "KubeCon + CloudNativeCon 2018, 2019"
          ]
       },
-      {  "name":"Podcasts and Forums",
+      {  "name":"Podcasts, Forums, Interests",
          "keywords":[
-            "Golang"
+            "Golang radio-t.com >= 2014", "Habr habr.com >= 2008", "AWS Podcast >= 2016", "The WAN Show >= 2019", "UWP by Umputun >= 2016", "IXBT.com", 
+            "Tom's Hardware", "agilemanifesto.org", "12factor.net"
          ]
       },
       {
@@ -270,14 +309,27 @@
          "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
             "Best practices", "High performance", "IT novels", "Marketing and selling high-tech products", "Scalable and maintainable systems", "Algorithms",
             "Managing successful projects", "Building teams", "Software architect wisdom", "Isaac Asimov", "Robert Heinlein", "George Orwell", "Terry Goodkind",
-            "Alan Kuper", "Tom DeMarco"
+            "Alan Kuper", "Tom DeMarco", "Robert Martin: Clean Code: A Handbook of Agile Software Craftsmanship", "Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior",
+            "Edward Yourdon Death March", "Alan Kuper The Inmates Are Running the Asylum", "Smart and Gets Things Done: Joel Spolsky`s Concise Guide to Finding the Best Technical Talent",
+            "Frederick P. Brooks, The Mythical Man-Month",
+            "E. Gamma Design Patterns. Elements of Reusable Object-Oriented Software",
+            "J. Hank Rainwater Herding Cats: A Primer for Programmers Who Lead Programmers",
+            "Allan Kelly: Xanpan",
+            "Jinesh Varia: AWS Architecting for the Cloud: Best practices",
+            "The Phoenix Project: A Novel About IT by Gene Kim, Kevin Behr, George Spafford",
+            "SCRUM The Art of Doing Twice the Work in Half the Time by Jeff Sutherland",
+            "The soul of a new machine by Tracy Kidder",
+            "The five dysfunctions of a team: a Leadership fable by Patrick Lencioni",
+            "Crossing the chasm: marketing and selling high-tech products to mainstream customers",
+            "Designing Data-Intensive Applications",
+            "The Deadline: A Novel about Project Management by Tom DeMarco",
+            "Solid Code: Optimizing the Software Development Life Cycle by Donis Marshall and John Bruno",
+            "The software development edge: essay on managing successful projects by Joe Marasco",
+            "Joel on software by Joel Spolsky",
+            "Why software sucks… adn what you can do about it by David S. Platt",
+            "Programming Collective Intelligence by Toby Segaran",
+            "97 things every software architect should know: collective wisdom from the Experts"            
          ]
-      }
-   ],
-   "references":[
-      {
-         "name":"Arnd Aschentrup Co-Founder & CEO at Tandem / www.tandem.net",
-         "reference":"Sergei is an outstanding engineer! We have worked together very closely for more than 7 years and during this time Sergei played a decisive role in Tandem’s success. For example, Sergei built Tandem’s complex, high-load backend application, infrastructure and API initially single-handedly, later leading, mentoring and developing our growing backend engineering team. Our backend serves more than 10 million community members with close to perfect uptime, high efficiency and performance across four separate client applications. Sergei always goes above and beyond the day to day responsibilities to solve to a broad spectrum of engineering and IT challenges, such as connectivity for our members in mainland China, building analytics infrastructure + tools and working with all teams to find the best solutions."
       }
    ]
 }
