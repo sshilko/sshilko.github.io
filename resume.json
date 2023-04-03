@@ -41,14 +41,14 @@
    },
    "work":[
       {
-         "company":"MessageBird",
+         "company":"MessageBird B.V.",
          "position":"Senior Software Engineer",
-         "website":"https://www.elucidate.co",
+         "website":"http://messagebird.com",
          "startDate":"2022-06-01",
          "summary":"Omnichannel automation platform for APIs, service & marketing",
          "highlights":[
-            "Application software and APIs to automate and personalize every touchpoint with your customer across SMS, Voice & WhatsApp",
-            "Customer facing portal application backend, rework authentication with JWT tokens, rework containers gracefull shutdown, unit-test coverage",
+            "Backend apps and APIs to automate automate channes like SMS, Voice & WhatsApp",
+            "Customer facing portal, rework authentication with JWT tokens, rework containers gracefull shutdown, unit-test coverage",
             "Design, adopt SLO & SLI, monitoring for existing app, prometheus & graphana dashboards",
             "Billing & accounting, debug & optimize runtime of >5000RPS billing OLTP workers",
             "Accounting on-call, 60% cost reduction in billing runtime, better CI/CD gitlab pipelines & K8s deployments"
@@ -61,9 +61,9 @@
          "website":"https://www.elucidate.co",
          "startDate":"2022-03-01",
          "endDate":"2022-06-01",
-         "summary":"FinTech 🏦 EFI Platform. A financial crime risk quantification platform to build trust and confidence between financial institutions, corporates, and regulators. Backend. Infrastructure.",
+         "summary":"Startup. FinTech 🏦 EFI Platform. A financial crime risk quantification platform to build trust and confidence between financial institutions, corporates, and regulators. Backend. Infrastructure.",
          "highlights":[
-            "Web B2B portal and API at FinTech"
+            "Web B2B portal and risk platform APIs"
          ]
       },
       {
@@ -72,7 +72,7 @@
          "website":"https://www.tandem.net",
          "startDate":"2016-06-01",
          "endDate":"2022-02-01",
-         "summary":">1M DAU, 12+ Engineers, 50+ employees, language education domain. Microservices applications, grow & manage team, analytics, business continuity. Building and running software at scale.",
+         "summary":"1M DAU, 12+ Engineers, 50+ employees, language education domain. Microservices applications, grow & manage team, analytics, business continuity. Building and running software at scale.",
          "highlights":[
             "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time",
             "Scaled backend capacity from 1000's of users to >15M users",

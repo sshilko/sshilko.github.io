@@ -25,7 +25,7 @@ npm install
 # PDF --------------------------------------
 https://topdf.org/url
 
-# Linux/Docker
+# Mac/Linux Docker
 docker pull fixl/json-resume
-#docker run --rm -it -v $(pwd):/src fixl/json-resume export --theme paper --format html index.html
-docker run --rm -it -v $(pwd):/src fixl/json-resume export --theme elegant --format html index.html
+#docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme paper --format html index.html
+docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme elegant --format html index.html
