@@ -24,6 +24,7 @@ npm install
 
 # PDF --------------------------------------
 https://topdf.org/url
+https://webtopdf.com/download#use-print-layout
 
 # Mac/Linux Docker
 docker pull fixl/json-resume
