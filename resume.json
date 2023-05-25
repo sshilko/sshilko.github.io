@@ -54,18 +54,6 @@
             "Accounting on-call, 60% cost reduction in billing runtime, better CI/CD gitlab pipelines & K8s deployments"
          ]
       },
-
-      {
-         "company":"Elucidate GmbH",
-         "position":"Senior Backend Engineer",
-         "website":"https://www.elucidate.co",
-         "startDate":"2022-03-01",
-         "endDate":"2022-06-01",
-         "summary":"Startup. FinTech 🏦 EFI Platform. A financial crime risk quantification platform to build trust and confidence between financial institutions, corporates, and regulators. Backend. Infrastructure.",
-         "highlights":[
-            "Web B2B portal and risk platform APIs"
-         ]
-      },
       {
          "company":"Tripod Technlogy GmbH",
          "position":"Head of Engineering at Tandem Language Exchange App www.tandem.net",
