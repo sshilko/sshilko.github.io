@@ -24,6 +24,11 @@ npm install
 
 # PDF --------------------------------------
 https://topdf.org/url
+- Render As: Desktop
+- A4
+- Portrait & Full-colors
+- Enable links, images, javascript
+
 https://webtopdf.com/download#use-print-layout
 
 # Mac/Linux Docker
