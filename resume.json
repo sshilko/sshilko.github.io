@@ -2,16 +2,16 @@
    "basics":{
       "name":"Sergei Shilko",
       "label": "Creativity is intelligence having fun - Albert Einstein",
-      "url": "http://sshilko.com",
+      "url": "https://sshilko.com",
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
-      "website":"sshilko.com",
-      "summary":"IT Professional with 15+ years experience in backends, mobile APIs and AWS platform. Recently worked at Tandem: online language exchange app to learn languages, chat, video call, book tutors, get certified in language and find new friends. Working with Docker, Microservices, API's, AWS, Scrum, PHP, Golang, Java, Serverless, Kubernetes. Experience with mobile devices, payments, video/audio calls, messaging, social networks, realtime systems, fraud detection, risk management, hiring, project management, engineering lead. Education domain.",
+      "website":"https://sshilko.com",
+      "summary":"IT Professional with 15+ years experience in backends, mobile APIs, AWS platform, distributed scalable systems. Recently worked on Tandem: online language exchange app to learn languages, chat, video call, book tutors, get certified in language and find new friends. Working with Docker, Microservices, API's, AWS, Scrum, PHP, Golang, Serverless, Kubernetes. Experience with mobile apps, payments, video/audio calls, messaging, social networks, realtime systems, fraud detection, risk management, hiring, project management, engineering lead. Fintech and education domains.",
 
       "location":{
          "address":"",
          "postalCode":"12627",
-         "region": "Berlin"
+         "region": "Remote from Berlin"
       },
       "profiles":[
         {
@@ -42,16 +42,17 @@
    "work":[
       {
          "company":"MessageBird B.V.",
-         "position":"Senior Software Engineer",
-         "website":"http://messagebird.com",
+         "position":"Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP)",
+         "website":"https://messagebird.com",
          "startDate":"2022-06-01",
-         "summary":"Omnichannel automation platform for APIs, service & marketing",
+         "summary":"Omnichannel automation platform for APIs, service & marketing.",
          "highlights":[
-            "Backend apps and APIs to automate automate channes like SMS, Voice & WhatsApp",
-            "Customer facing portal, rework authentication with JWT tokens, rework containers gracefull shutdown, unit-test coverage",
-            "Design, adopt SLO & SLI, monitoring for existing app, prometheus & graphana dashboards",
+            "Backend apps and APIs to automate automate message delivery channels: SMS, MMS, Voice, WhatsApp, Viber...",
+            "Customer facing portal, reworked authentication to JWT tokens, reworked containers startup/shutdown, unit-test coverage",
+            "Design, adopt SLO & SLI, monitoring for existing app, Prometheus & Graphana dashboards",
             "Billing & accounting, debug & optimize runtime of >5000RPS billing OLTP workers",
-            "Accounting on-call, 60% cost reduction in billing runtime, better CI/CD gitlab pipelines & K8s deployments"
+            "Accounting on-call, 60% cost reduction in billing runtime, better CI/CD gitlab pipelines & K8s deployments",
+            "Billing & accounting backend for distributed multi-region app, golang, nosql"
          ]
       },
       {
@@ -102,7 +103,7 @@
             "Celebrated '2015 Most innovative app of the year' award (Apple iTunes)",
             "Implemented PHP framework with open-source components",
             "Reduced API response times from >=2000ms to ~100ms",
-            "Implemented critical app functionality: in-app messenger, community userfeed, email-reminders, user search and more"
+            "Implemented critical app functionality: in-app messenger, real-time chat, community live feed, email-reminders, user search and more"
          ]
       },
       {
@@ -243,6 +244,7 @@
          "name":"Backend",
          "level":"",
          "keywords":[
+            "Golang",
             "PHP",
             "MySQL",
             "Redis",
@@ -260,12 +262,15 @@
             "Git",
             "PHPUnit",
             "NewRelic APM",
+            "DataDog",
             "HAProxy",
-            "Golang",
             "Gitlab CI",
             "Symfony",
             "Graphana",
-            "Prometheus"
+            "Prometheus",
+            "AWS",
+            "GCS",
+            "Terraform"
          ]
       },
       {
@@ -308,7 +313,7 @@
       },
       {
          "language":"Polish",
-         "fluency":"B2 - Advanced"
+         "fluency":"C1 - Advanced"
       }
    ],
    "interests":[
@@ -319,8 +324,8 @@
       },
       {  "name":"Podcasts, Forums, Interests",
          "keywords":[
-            "Golang radio-t.com >= 2014", "Habr habr.com >= 2008", "AWS Podcast >= 2016", "The WAN Show >= 2019", "UWP by Umputun >= 2016", "IXBT.com", 
-            "Tom's Hardware", "agilemanifesto.org", "12factor.net"
+            "Golang radio-t.com 2014 - 2021", "Habr habr.com 2008 - 2020", "AWS Podcast 2016 - 2022", "The WAN Show 2019 - 2023", "UWP by Umputun 2016 - 2021",
+            "Tom's Hardware", "agilemanifesto.org", "12factor.net", "Investment", "Startups", "Crypto"
          ]
       },
       {

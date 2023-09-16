@@ -27,6 +27,6 @@ https://topdf.org/url
 https://webtopdf.com/download#use-print-layout
 
 # Mac/Linux Docker
-docker pull fixl/json-resume
+docker pull fixl/json-resume:2.2.4
 #docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme paper --format html index.html
 docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme elegant --format html index.html
