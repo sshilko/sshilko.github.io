@@ -1,6 +1,6 @@
 {
    "basics":{
-      "name":"Sergei Shilko",
+      "name":"Sergei Shilko CV",
       "label": "Creativity is intelligence having fun - Albert Einstein",
       "url": "https://sshilko.com",
       "picture":"https://sshilko.com/shilko_avatar.jpg",
@@ -42,17 +42,22 @@
    "work":[
       {
          "company":"MessageBird B.V.",
-         "position":"Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP)",
+         "position":"Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP, PHP8)",
          "website":"https://messagebird.com",
          "startDate":"2022-06-01",
          "summary":"Omnichannel automation platform for APIs, service & marketing.",
          "highlights":[
-            "Backend apps and APIs to automate automate message delivery channels: SMS, MMS, Voice, WhatsApp, Viber...",
-            "Customer facing portal, reworked authentication to JWT tokens, reworked containers startup/shutdown, unit-test coverage",
-            "Design, adopt SLO & SLI, monitoring for existing app, Prometheus & Graphana dashboards",
-            "Billing & accounting, debug & optimize runtime of >5000RPS billing OLTP workers",
-            "Accounting on-call, 60% cost reduction in billing runtime, better CI/CD gitlab pipelines & K8s deployments",
-            "Billing & accounting backend for distributed multi-region app, golang, nosql"
+            "Backend apps for message delivery over different channels: SMS, MMS, Voice, WhatsApp, Viber...",
+            "REST API, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20",
+            "Microservice architecture, platform services, product services, IaC, event bus, api-first, domain-driven design", 
+            "Customer UI portal improvements to authentication: adopt JWT tokens, reworked containers startup/shutdown, unit-test coverage",
+            "Define and adopt SLO, SLI, alerting with Prometheus, Thanos & Graphana dashboards",
+            "CP Billing & Accounting runtime runtime with >5000 RPS billing OLTP workers - high load async billing",
+            "Optimized high-load billing k8s cluster runtime performance, resulted in 60% cost reduction: opencensus, lightstep, jaeger",
+            "Optimized speed of Gitlab CI/CD pipelines for K8s deployments: gitlab, docker, k8s, helm",
+            "MEP billing, accounting, invoicing, pricing, quoting features in globally distributed multi-region app: golang/echo.v4, dynamodb/single-table",
+            "Accounting security features like 2FA, SSO, reCaptcha, rate-limiting ...",
+            "CPQ Quoting and Pricing project: set of APIs for self-serve application for creating custom enterprise sales offers"
          ]
       },
       {
