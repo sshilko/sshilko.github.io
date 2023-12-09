@@ -42,17 +42,17 @@
    "work":[
       {
          "company":"MessageBird B.V.",
-         "position":"Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP, PHP8)",
+         "position":"Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP, PHP8) www.messagebird.com",
          "website":"https://messagebird.com",
          "startDate":"2022-06-01",
-         "summary":"Omnichannel automation platform for APIs, service & marketing.",
+         "summary":"Omnichannel automation platform for APIs, service & marketing. Trusted by Meta, Google, Uber.",
          "highlights":[
             "Backend apps for message delivery over different channels: SMS, MMS, Voice, WhatsApp, Viber...",
             "REST API, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20",
             "Microservice architecture, platform services, product services, IaC, event bus, api-first, domain-driven design", 
             "Customer UI portal improvements to authentication: adopt JWT tokens, reworked containers startup/shutdown, unit-test coverage",
             "Define and adopt SLO, SLI, alerting with Prometheus, Thanos & Graphana dashboards",
-            "CP Billing & Accounting runtime runtime with >5000 RPS billing OLTP workers - high load async billing",
+            "CP Billing & Accounting runtime with >5000 RPS billing OLTP workers - high load async billing",
             "Optimized high-load billing k8s cluster runtime performance, resulted in 60% cost reduction: opencensus, lightstep, jaeger",
             "Optimized speed of Gitlab CI/CD pipelines for K8s deployments: gitlab, docker, k8s, helm",
             "MEP billing, accounting, invoicing, pricing, quoting features in globally distributed multi-region app: golang/echo.v4, dynamodb/single-table",
@@ -113,7 +113,7 @@
       },
       {
          "company":"Yangutu LLC",
-         "position":"Lead Software Developer at Yangutu LLC",
+         "position":"Lead Software Developer at Yangutu LLC meetville.com",
          "website":"https://meetville.com/",
          "startDate":"2011-11-01",
          "endDate":"2012-11-01",
