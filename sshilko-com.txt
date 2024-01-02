@@ -1,0 +1,213 @@
+
+Sergei Shilko
+Berlin, 12627
+contact@sshilko.com
+
+PROFESSIONAL SUMMARY
+============================
+I'm engineer with hands-on experience in backends, REST & RPC APIs, AWS cloud certified.
+Skilled with online social networks, realtime chat, video call, online booking, accounting & billing, search, online payments, fraud & risk systems.
+Proficient with Docker, AWS, PHP, Golang.
+
+
+WORK HISTORY
+============================
+
+2022-06-01 -
+Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP, PHP8) www.messagebird.com
+
+Working on foundation services built with Go, K8s, PHP, AWS, GCP: accounts, accounting, billing, payments.
+
++ REST APIs, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20
++ Backend apps for message delivery over different channels: SMS, MMS, Voice, WhatsApp, Viber...
++ Microservice architecture, platform services, product services, IaC, event bus, api-first, domain-driven design
++ Customer UI portal improvements to authentication: adopt JWT tokens, reworked containers startup/shutdown, unit-test coverage
++ Define and adopt SLO, SLI, alerting with Prometheus, Thanos & Graphana dashboards
++ CP Billing & Accounting runtime with >5000 RPS billing OLTP workers - high load async billing
++ Optimized high-load billing k8s cluster runtime performance, resulted in 60% cost reduction: opencensus, lightstep, jaeger
++ Optimized speed of Gitlab CI/CD pipelines for K8s deployments: gitlab, docker, k8s, helm
++ MEP billing, accounting, invoicing, pricing, quoting features in globally distributed multi-region app: golang/echo.v4, dynamodb/single-table
++ Accounting security features like 2FA, SSO, reCaptcha, rate-limiting ...
++ CPQ Quoting and Pricing project: set of APIs for self-serve application for creating custom enterprise sales offers
+
+2016-06-01 – 2022-02-01
+Head of Engineering at Tandem Language Exchange App www.tandem.net
+
+Leaderhip and hands-on role, 1M DAU, 12+ Engineers, 50+ employees, education domain. Microservices applications, grow & manage team, analytics, business continuity. Building and running software at scale.
+
++ Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time
++ Scaled backend capacity from 1000's of users to >15M users
++ Applied cost savings plans and utilized AWS Spot instances to reduce costs by 32%
++ Hired multiple AI/ML, Data, Backend and devOPS engineers.
++ Migrated monolithic backend application into 15 independent services
++ Introduced Golang & AWS Keyspaces/Cassandra, DynamoDB for high-load group chat application storage
++ Promoted AWS Best Practices, executed AWS Well-Architected framework together with AWS solution architects
++ Managed >40 EC2 servers across 3 AWS regions, migrated from AWS EC2 Classic to AWS VPC
++ Updated codebase from PHP5 to PHP 7.4, Go 1.14 Docker 19, PHPUnit 9
++ Supervised development of serverless microservices in Java/Kotlin/Golang & DynamoDB
++ Split monorepository into >30 separate repositories with separate CI/CD
++ Executed multiple refactoring projects in code, infrastructure, raw storage and databases
++ Maintained backend roadmap and technology radar tech-radar.opensource.tandem.net based on ThoughtWorks
++ Improved user retention analytics, subscriptions and overall revenue tracking
++ Updated realtime messaging server RabbitMQ, secured authorization, added 3rd websocket/MQTT browser client
++ Added support for in-app purchase gifting, subscription hold, grace periods, geo-search.
++ Increased application infrastructure and performance/APM monitoring automation and alerting via NewRelic
++ Built full CI/CD pipeline on AWS Pipeline inc. Blue/Green deployments and AWS ASG/AutoScaling
++ Improved China & SEA connectivity via transparent HAProxy, ICP/Hosting issues resolved
++ Built internal business KPI, retention, engagement and revenue tracking systems
++ Enforced PHPUnit & integration testing, code reviews & code style policies
++ Migrated application services into containers (Docker)
+
+2013-06-01 – 2016-06-01
+Senior FullStack Software Developer at Tandem Language Exchange App www.tandem.net
+
+Mature backend solutions for audio/video (tele)communications software. Developed public API for mobile clients.
+
++ Implemented public API for native mobile clients
++ Refactored old MVP prototype codebase
++ Launched first production release 1.0
++ Celebrated first 50 users sign-up on GA and first promotions on iTunes
++ Deprecated legacy on-premise hosting and migrated into AWS EC2-Classic
++ Celebrated '2015 Most innovative app of the year' award (Apple iTunes)
++ Implemented PHP framework with open-source components
++ Reduced API response times from >=2000ms to ~100ms
++ Implemented critical app functionality: in-app messenger, real-time chat, community live feed, email-reminders, user search and more
+
+2011-11-01 – 2012-11-01
+Lead Software Developer at Yangutu LLC meetville.com
+
+Working on web based social network.
+
++ Added API for supporting external 3rd party Game-platform add-on's 
++ Added AMF Flex/ActionScript API Server for import/export of data to mobile platform
++ Added Facebook, Instagram, VK and other social networks integrations
++ Extended user data import and export API's
+
+2008-08-01 – 2011-09-01
+Software Engineer at eHarmony Inc www.eharmony.com
+
+eHarmony Reporting and Management Tools for Risk Management team.
+
++ Developed CMS/RMS Internal service from specification to manage and automate risks and fraud detection
++ Working with sensitive client payment information
++ Extended CMS/RMS service with flexible and configurable multi-role authentication system for different regions
++ Added support for localization and translation of CMS/RMS
++ Added analytics and audit tools for tracking and optimizing team (users or the CMS/RMS) performance
+
+2007-08-01 – 2011-09-01
+Software Engineer at IponWeb www.iponweb.com
+
+SOAP/Rest API for real-time AD Exchange platform - RightMedia
+
++ Worked on SOAP-API for high-load real-time advertising platform at scale
++ Heavily extended and rewrote existing funtional test coverage, integrational e2e testing
++ Covered many new edge cases in tests which lead to fixes in critical API parts
+
+2008-05-01 – 2009-03-01
+Software Engineer at Yahoo! yahoo.com
+
+AD Exchange API - RightMedia
+
++ Refactoring tests, code and documentation, working with remote Yahoo developers team. SOAP API. Perl. PHP5
+
+
+AWARDS
+============================
+
+Ultimate Go – 2023-01-25
+Certificate #1latfj6ukq 
+
+AWS Certified Solutions Architect - Associate (SAA) – 2018-12-13
+Certificate #3GV5K7KKC14Q17W1 
+
+AWS Certified Cloud Practitioner – 2020-11-21
+Certificate #3B28554BK2EQ1PSD 
+
+Telc Deutsch B1 Zertifikat – 2018-05-01
+Certificate #0503718 
+
+
+
+SKILLS
+============================
+
+AWS
+-------------
++ EC2
++ ELB
++ Lambda
++ S3
++ RDS
++ ElastiCache
++ VPC
++ CloudFront
++ Route 53
++ API Gateway
++ CodeCommit
++ CodeBuild
++ CodeDeploy
++ CodePipeline
++ CloudWatch
++ IAM
++ ECR
++ Cognito
++ Certificate Manager
++ WAF & Shield
++ SQS
++ SNS
++ Mobile Hub
++ PinPoint
++ WorkMail
++ Organizations
++ DynamoDB
++ Secrets Manager
+
+
+Backend
+-------------
++ Golang
++ PHP
++ MySQL
++ Redis
++ Percona
++ SphinxSearch
++ ManticoreSearch
++ Docker
++ K8s
++ Beanstalkd
++ RabbitMQ
++ AMQP
++ MQTT
++ Puppet
++ Nginx
++ Git
++ PHPUnit
++ NewRelic APM
++ DataDog
++ HAProxy
++ Gitlab CI
++ Symfony
++ Graphana
++ Prometheus
++ AWS
++ GCS
++ Terraform
+
+
+Leadership, SDM, SDLC
+-------------
++ Scrum
++ Agile
++ Team Lead
++ Project Manager
++ Head of Engineering
++ Backlog, Roadmap, Delivery
++ Hiring
++ Budgeting
++ Team building
++ Cross functional teams
++ Mentoring
++ Jira
++ Confluence
++ C4 Model
+
