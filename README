@@ -35,3 +35,9 @@ https://webtopdf.com/download#use-print-layout
 docker pull fixl/json-resume:2.2.4
 #docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme paper --format html index.html
 docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme elegant --format html index.html
+
+# Hosted
+
+https://registry.jsonresume.org/sshilko
+Edit gist at github sshilko/resume.json
+https://gist.github.com/sshilko/28ab6774a66396eaa9473dd6871f2bd0

@@ -9,7 +9,7 @@
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
       "website":"https://sshilko.com",
-      "summary":"I'm engineer with hands-on experience in backends, REST & RPC APIs, AWS cloud certified. Skilled with online social networks, realtime chat, video call, online booking, accounting & billing, search, online payments, fraud & risk systems. Proficient with Docker, AWS, PHP, Golang.",
+      "summary":"I'm engineer with hands-on experience in backends, REST & RPC APIs, AWS cloud certified. Skilled with online social networks, realtime chat, video call, online booking, accounting & billing, search, online payments, fraud & risk systems. Proficient with Docker, AWS, PHP, Golang.\n\n",
 
       "location":{
          "address":"",
@@ -293,7 +293,7 @@
             "Confluence",
             "C4 Model"
          ]
-      }      
+      }
    ],
    "languages":[
       {
@@ -303,14 +303,6 @@
       {
          "language":"German",
          "fluency":"B2 - Advanced"
-      },      
-      {
-         "language":"Russian",
-         "fluency":"Fluent"
-      },
-      {
-         "language":"Polish",
-         "fluency":"C1 - Advanced"
       }
    ],
    "interests":[
@@ -328,16 +320,16 @@
       {
          "name":"Reading",
          "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
-            "Isaac Asimov", 
-            "Robert Heinlein", 
-            "George Orwell", 
+            "Isaac Asimov",
+            "Robert Heinlein",
+            "George Orwell",
             "Terry Goodkind",
-            "Alan Kuper", 
-            "Tom DeMarco", 
-            "Robert Martin: Clean Code: A Handbook of Agile Software Craftsmanship", 
+            "Alan Kuper",
+            "Tom DeMarco",
+            "Robert Martin: Clean Code: A Handbook of Agile Software Craftsmanship",
             "Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior",
-            "Edward Yourdon Death March", 
-            "Alan Kuper The Inmates Are Running the Asylum", 
+            "Edward Yourdon Death March",
+            "Alan Kuper The Inmates Are Running the Asylum",
             "Smart and Gets Things Done: Joel Spolsky`s Concise Guide to Finding the Best Technical Talent",
             "Frederick P. Brooks, The Mythical Man-Month",
             "E. Gamma Design Patterns. Elements of Reusable Object-Oriented Software",
@@ -356,7 +348,7 @@
             "Joel on software by Joel Spolsky",
             "Why software sucks… adn what you can do about it by David S. Platt",
             "Programming Collective Intelligence by Toby Segaran",
-            "97 things every software architect should know: collective wisdom from the Experts"            
+            "97 things every software architect should know: collective wisdom from the Experts"
          ]
       }
    ]
