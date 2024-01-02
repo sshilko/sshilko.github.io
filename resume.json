@@ -1,17 +1,20 @@
 {
+   "meta": {
+      "theme": "elegant"
+   },
    "basics":{
-      "name":"Sergei Shilko CV",
+      "name":"Sergei Shilko",
       "label": "Creativity is intelligence having fun - Albert Einstein",
       "url": "https://sshilko.com",
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
       "website":"https://sshilko.com",
-      "summary":"IT Professional with 15+ years experience in backends, mobile APIs, AWS platform, distributed scalable systems. Recently worked on Tandem: online language exchange app to learn languages, chat, video call, book tutors, get certified in language and find new friends. Working with Docker, Microservices, API's, AWS, Scrum, PHP, Golang, Serverless, Kubernetes. Experience with mobile apps, payments, video/audio calls, messaging, social networks, realtime systems, fraud detection, risk management, hiring, project management, engineering lead. Fintech and education domains.",
+      "summary":"I'm engineer with hands-on experience in backends, REST & RPC APIs, AWS cloud certified. Skilled with online social networks, realtime chat, video call, online booking, accounting & billing, search, online payments, fraud & risk systems. Proficient with Docker, AWS, PHP, Golang.",
 
       "location":{
          "address":"",
          "postalCode":"12627",
-         "region": "Remote from Berlin"
+         "region": "Berlin"
       },
       "profiles":[
         {
@@ -30,13 +33,7 @@
          "network":"codepen",
          "title": "Blog",
          "url":"https://moar.sshilko.com"
-        },
-        {
-         "network":"skype",
-         "title": "Consulting",
-         "url":"https://form.jotform.com/220382868963367",
-         "description": "Book a call"
-        }        
+        }
       ]
    },
    "work":[
@@ -45,11 +42,11 @@
          "position":"Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP, PHP8) www.messagebird.com",
          "website":"https://messagebird.com",
          "startDate":"2022-06-01",
-         "summary":"Omnichannel automation platform for APIs, service & marketing. Trusted by Meta, Google, Uber.",
+         "summary":"Working on foundation services built with Go, K8s, PHP, AWS, GCP: accounts, accounting, billing, payments.",
          "highlights":[
+            "REST APIs, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20",
             "Backend apps for message delivery over different channels: SMS, MMS, Voice, WhatsApp, Viber...",
-            "REST API, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20",
-            "Microservice architecture, platform services, product services, IaC, event bus, api-first, domain-driven design", 
+            "Microservice architecture, platform services, product services, IaC, event bus, api-first, domain-driven design",
             "Customer UI portal improvements to authentication: adopt JWT tokens, reworked containers startup/shutdown, unit-test coverage",
             "Define and adopt SLO, SLI, alerting with Prometheus, Thanos & Graphana dashboards",
             "CP Billing & Accounting runtime with >5000 RPS billing OLTP workers - high load async billing",
@@ -66,7 +63,7 @@
          "website":"https://www.tandem.net",
          "startDate":"2016-06-01",
          "endDate":"2022-02-01",
-         "summary":"1M DAU, 12+ Engineers, 50+ employees, language education domain. Microservices applications, grow & manage team, analytics, business continuity. Building and running software at scale.",
+         "summary":"Leaderhip and hands-on role, 1M DAU, 12+ Engineers, 50+ employees, education domain. Microservices applications, grow & manage team, analytics, business continuity. Building and running software at scale.",
          "highlights":[
             "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time",
             "Scaled backend capacity from 1000's of users to >15M users",
@@ -176,17 +173,17 @@
       {
          "institution":"GGPEK Elektrotechnik College",
          "area":"Elektrische Energietechnik (Power engineering)",
-         "studyType": "MSc Electrical Engineering",
+         "studyType": "Electrical Engineering",
          "startDate":"2000-09-01",
          "endDate":"2005-09-01"
       }
    ],
    "awards":[
       {
-         "title": "Master Cloud-Native Infrastructure with Kubernetes",
-         "date": "2022-02-07",
-         "awarder": "Course by LinkedIn",
-         "Summary": "Get started with containers and Kubernetes, and build microservices architectures for reliability and resilience"
+         "title": "Ultimate Go",
+         "date": "2023-01-25",
+         "awarder": "Certificate #1latfj6ukq",
+         "Summary": "Ultimate Go by Bill Kennedy at www.ardanlabs.com"
       },
       {
          "title": "AWS Certified Solutions Architect - Associate (SAA)",
@@ -195,18 +192,17 @@
          "Summary": "The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform"
       },
       {
-         "title": "Telc Deutsch B1 Zertifikat",
-         "date": "2018-05-01",
-         "awarder": "Certificate #0503718",
-         "Summary": "Telc GmbH - The European Language Certificates"
-      },
-      {
          "title": "AWS Certified Cloud Practitioner",
          "date": "2020-11-21",
          "awarder": "Certificate #3B28554BK2EQ1PSD",
          "Summary": "The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications"
+      },
+      {
+         "title": "Telc Deutsch B1 Zertifikat",
+         "date": "2018-05-01",
+         "awarder": "Certificate #0503718",
+         "Summary": "Telc GmbH - The European Language Certificates"
       }
-      
    ],
    "publications":[
    ],
@@ -310,10 +306,6 @@
       },      
       {
          "language":"Russian",
-         "fluency":"Fluent"
-      },
-      {
-         "language":"Belarusian",
          "fluency":"Fluent"
       },
       {
