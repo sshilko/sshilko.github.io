@@ -31,8 +31,8 @@ https://topdf.org/url
 
 https://webtopdf.com/download#use-print-layout
 
-https://registry.jsonresume.org/sshilko?theme=macchiato
-https://registry.jsonresume.org/sshilko?theme=elegant
+https://registry.jsonresume.org/sshilko?theme=macchiato PDF as A3
+https://registry.jsonresume.org/sshilko?theme=elegant PDF as A4
 
 # Mac/Linux Docker
 docker pull fixl/json-resume:2.2.4
