@@ -5,46 +5,45 @@ contact@sshilko.com
 
 PROFESSIONAL SUMMARY
 ============================
-I'm engineer with hands-on experience in backends, REST & RPC APIs, AWS cloud certified.
-Skilled with online social networks, realtime chat, video call, online booking, accounting & billing, search, online payments, fraud & risk systems.
-Proficient with Docker, AWS, PHP, Golang.
+I'm engineer with hands-on speciality in backends.
+I designed, built, deployed and added features to social network app, built REST & RPC APIs, proficient with AWS cloud.
+I developed scalable realtime chat, video call, online booking system, search, online payments, fraud & risk systems.
 
 
 WORK HISTORY
 ============================
 
-2022-06-01 -
-Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP, PHP8) www.messagebird.com
+2022-06-01 - now
+Senior Software Engineer www.messagebird.com
 
-Working on foundation services built with Go, K8s, PHP, AWS, GCP: accounts, accounting, billing, payments.
+Building scalable foundation services: Golang, K8s, PHP, AWS, GCP, PHP8 for accounts, accounting, billing, payments.
 
 + REST APIs, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20
-+ Backend apps for message delivery over different channels: SMS, MMS, Voice, WhatsApp, Viber...
-+ Microservice architecture, platform services, product services, IaC, event bus, api-first, domain-driven design
-+ Customer UI portal improvements to authentication: adopt JWT tokens, reworked containers startup/shutdown, unit-test coverage
-+ Define and adopt SLO, SLI, alerting with Prometheus, Thanos & Graphana dashboards
-+ CP Billing & Accounting runtime with >5000 RPS billing OLTP workers - high load async billing
-+ Optimized high-load billing k8s cluster runtime performance, resulted in 60% cost reduction: opencensus, lightstep, jaeger
-+ Optimized speed of Gitlab CI/CD pipelines for K8s deployments: gitlab, docker, k8s, helm
-+ MEP billing, accounting, invoicing, pricing, quoting features in globally distributed multi-region app: golang/echo.v4, dynamodb/single-table
-+ Accounting security features like 2FA, SSO, reCaptcha, rate-limiting ...
-+ CPQ Quoting and Pricing project: set of APIs for self-serve application for creating custom enterprise sales offers
++ Developed microservices in platform system, product services, api-first, domain-driven design
++ Developed Customer WEB/UI self-service portal
++ Designed and implemented SLO/SLI metrics and alerting with Grafana & Prometheus for K8s apps
++ Optimized Billing cluster runtime >5000 RPS ledger OLTP workers: 60% cost reduction
++ Implemented runtime metrics with NewRelic, DataDog, OpenCensus, Lightstep, Jaeger
++ Improved speed of Gitlab CI/CD pipelines for K8s Heml deployments
++ Golang services in for billing, accounting, invoicing, pricing, quoting in distributed multi-region system: golang/echo.v4, dynamodb/single-table
++ Improved security by implementing features like 2FA/MFA, SSO, reCaptcha, rate-limiting ...
++ Contributed to complex CPQ Quoting and Pricing project: enterprise B2B pricing modeling
 
 2016-06-01 – 2022-02-01
-Head of Engineering at Tandem Language Exchange App www.tandem.net
+Head of Engineering www.tandem.net
 
 Leaderhip and hands-on role, 1M DAU, 12+ Engineers, 50+ employees, education domain. Microservices applications, grow & manage team, analytics, business continuity. Building and running software at scale.
 
 + Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time
 + Scaled backend capacity from 1000's of users to >15M users
 + Applied cost savings plans and utilized AWS Spot instances to reduce costs by 32%
-+ Hired multiple AI/ML, Data, Backend and devOPS engineers.
++ Hired multiple Frontend, AI/ML, Data, Backend and devOPS engineers.
 + Migrated monolithic backend application into 15 independent services
 + Introduced Golang & AWS Keyspaces/Cassandra, DynamoDB for high-load group chat application storage
 + Promoted AWS Best Practices, executed AWS Well-Architected framework together with AWS solution architects
-+ Managed >40 EC2 servers across 3 AWS regions, migrated from AWS EC2 Classic to AWS VPC
++ Maintained all business infrastructure of >40 EC2 servers across 3 AWS regions, migrated from AWS EC2 Classic to AWS VPC
 + Updated codebase from PHP5 to PHP 7.4, Go 1.14 Docker 19, PHPUnit 9
-+ Supervised development of serverless microservices in Java/Kotlin/Golang & DynamoDB
++ Supervised development of serverless microservices in Golang & DynamoDB
 + Split monorepository into >30 separate repositories with separate CI/CD
 + Executed multiple refactoring projects in code, infrastructure, raw storage and databases
 + Maintained backend roadmap and technology radar tech-radar.opensource.tandem.net based on ThoughtWorks
@@ -59,7 +58,7 @@ Leaderhip and hands-on role, 1M DAU, 12+ Engineers, 50+ employees, education dom
 + Migrated application services into containers (Docker)
 
 2013-06-01 – 2016-06-01
-Senior FullStack Software Developer at Tandem Language Exchange App www.tandem.net
+Senior Software Developer www.tandem.net
 
 Mature backend solutions for audio/video (tele)communications software. Developed public API for mobile clients.
 
@@ -74,7 +73,7 @@ Mature backend solutions for audio/video (tele)communications software. Develope
 + Implemented critical app functionality: in-app messenger, real-time chat, community live feed, email-reminders, user search and more
 
 2011-11-01 – 2012-11-01
-Lead Software Developer at Yangutu LLC meetville.com
+Lead Software Developer meetville.com
 
 Working on web based social network.
 
@@ -84,7 +83,7 @@ Working on web based social network.
 + Extended user data import and export API's
 
 2008-08-01 – 2011-09-01
-Software Engineer at eHarmony Inc www.eharmony.com
+Software Engineer www.eharmony.com
 
 eHarmony Reporting and Management Tools for Risk Management team.
 
@@ -99,9 +98,9 @@ Software Engineer at IponWeb www.iponweb.com
 
 SOAP/Rest API for real-time AD Exchange platform - RightMedia
 
-+ Worked on SOAP-API for high-load real-time advertising platform at scale
-+ Heavily extended and rewrote existing funtional test coverage, integrational e2e testing
-+ Covered many new edge cases in tests which lead to fixes in critical API parts
++ Developed on SOAP-API for high-load real-time Ad platform at big scale
++ Heavily extended and rewrote existing functional test coverage, integrational e2e testing
++ Covered new edge cases in tests which lead to fixes in critical API parts
 
 2008-05-01 – 2009-03-01
 Software Engineer at Yahoo! yahoo.com
@@ -165,6 +164,7 @@ AWS
 
 Backend
 -------------
++ Go
 + Golang
 + PHP
 + MySQL
@@ -187,7 +187,7 @@ Backend
 + HAProxy
 + Gitlab CI
 + Symfony
-+ Graphana
++ Grafana
 + Prometheus
 + AWS
 + GCS
