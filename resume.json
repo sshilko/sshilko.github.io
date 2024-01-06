@@ -7,9 +7,9 @@
       "label": "Creativity is intelligence having fun - Albert Einstein",
       "url": "https://sshilko.com",
       "picture":"https://sshilko.com/shilko_avatar.jpg",
-      "email":"contact@sshilko.com",
+      "email":"sergey.shilko@gmail.com",
       "website":"https://sshilko.com",
-      "summary":"I'm engineer with hands-on experience in backends, REST & RPC APIs, AWS cloud certified. Skilled with online social networks, realtime chat, video call, online booking, accounting & billing, search, online payments, fraud & risk systems. Proficient with Docker, AWS, PHP, Golang.\n\n",
+      "summary":"I'm engineer with hands-on speciality in backends. I designed, built, deployed and added features to social network app, built REST & RPC APIs, proficient with AWS cloud. I designed and built scalable realtime chat, video call, online booking system, search, online payments, fraud & risk systems.\n\n",
 
       "location":{
          "address":"",
@@ -39,27 +39,26 @@
    "work":[
       {
          "company":"MessageBird B.V.",
-         "position":"Senior Software Engineer - Billing & Accounting, Foundations (Go, K8s, AWS, GCP, PHP8) www.messagebird.com",
+         "position":"Senior Software Engineer www.messagebird.com",
          "website":"https://messagebird.com",
          "startDate":"2022-06-01",
-         "summary":"Working on foundation services built with Go, K8s, PHP, AWS, GCP: accounts, accounting, billing, payments.",
+         "summary":"Building scalable foundation services: Golang, K8s, PHP, AWS, GCP, PHP8 for accounts, accounting, billing, payments.",
          "highlights":[
             "REST APIs, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20",
-            "Backend apps for message delivery over different channels: SMS, MMS, Voice, WhatsApp, Viber...",
-            "Microservice architecture, platform services, product services, IaC, event bus, api-first, domain-driven design",
-            "Customer UI portal improvements to authentication: adopt JWT tokens, reworked containers startup/shutdown, unit-test coverage",
-            "Define and adopt SLO, SLI, alerting with Prometheus, Thanos & Graphana dashboards",
-            "CP Billing & Accounting runtime with >5000 RPS billing OLTP workers - high load async billing",
-            "Optimized high-load billing k8s cluster runtime performance, resulted in 60% cost reduction: opencensus, lightstep, jaeger",
-            "Optimized speed of Gitlab CI/CD pipelines for K8s deployments: gitlab, docker, k8s, helm",
-            "MEP billing, accounting, invoicing, pricing, quoting features in globally distributed multi-region app: golang/echo.v4, dynamodb/single-table",
-            "Accounting security features like 2FA, SSO, reCaptcha, rate-limiting ...",
-            "CPQ Quoting and Pricing project: set of APIs for self-serve application for creating custom enterprise sales offers"
+            "Developed microservices in platform system, product services, api-first, domain-driven design",
+            "Developed Customer WEB/UI self-service portal",
+            "Designed and implemented SLO/SLI metrics and alerting with Grafana & Prometheus for K8s apps",
+            "Optimized Billing cluster runtime >5000 RPS ledger OLTP workers: 60% cost reduction",
+            "Implemented runtime metrics with NewRelic, DataDog, OpenCensus, Lightstep, Jaeger",
+            "Improved speed of Gitlab CI/CD pipelines for K8s Heml deployments",
+            "Golang services in for billing, accounting, invoicing, pricing, quoting in distributed multi-region system: golang/echo.v4, dynamodb/single-table",
+            "Improved security by implementing features like 2FA/MFA, SSO, reCaptcha, rate-limiting ...",
+            "Contributed to complex CPQ Quoting and Pricing project: enterprise B2B pricing modeling"
          ]
       },
       {
          "company":"Tripod Technlogy GmbH",
-         "position":"Head of Engineering at Tandem Language Exchange App www.tandem.net",
+         "position":"Head of Engineering www.tandem.net",
          "website":"https://www.tandem.net",
          "startDate":"2016-06-01",
          "endDate":"2022-02-01",
@@ -68,13 +67,13 @@
             "Scaled backend infrastructure from 1000 RPM to 80000 RPM, from 100kDAU to >1mDAU and <50ms API response time",
             "Scaled backend capacity from 1000's of users to >15M users",
             "Applied cost savings plans and utilized AWS Spot instances to reduce costs by 32%",
-            "Hired multiple AI/ML, Data, Backend and devOPS engineers.",
+            "Hired multiple Frontend, AI/ML, Data, Backend and devOPS engineers.",
             "Migrated monolithic backend application into 15 independent services",
             "Introduced Golang & AWS Keyspaces/Cassandra, DynamoDB for high-load group chat application storage",
             "Promoted AWS Best Practices, executed AWS Well-Architected framework together with AWS solution architects",
-            "Managed >40 EC2 servers across 3 AWS regions, migrated from AWS EC2 Classic to AWS VPC",
+            "Maintained all business infrastructure of >40 EC2 servers across 3 AWS regions, migrated from AWS EC2 Classic to AWS VPC",
             "Updated codebase from PHP5 to PHP 7.4, Go 1.14 Docker 19, PHPUnit 9",
-            "Supervised development of serverless microservices in Java/Kotlin/Golang & DynamoDB",
+            "Supervised development of serverless microservices in Golang & DynamoDB",
             "Split monorepository into >30 separate repositories with separate CI/CD",
             "Executed multiple refactoring projects in code, infrastructure, raw storage and databases",
             "Maintained backend roadmap and technology radar tech-radar.opensource.tandem.net based on ThoughtWorks",
@@ -91,7 +90,7 @@
       },
       {
          "company":"Tripod Technlogy GmbH",
-         "position":"Senior FullStack Software Developer at Tandem Language Exchange App www.tandem.net",
+         "position":"Senior Software Developer www.tandem.net",
          "website":"https://www.tandem.net",
          "startDate":"2013-06-01",
          "endDate":"2016-06-01",
@@ -110,7 +109,7 @@
       },
       {
          "company":"Yangutu LLC",
-         "position":"Lead Software Developer at Yangutu LLC meetville.com",
+         "position":"Lead Software Developer meetville.com",
          "website":"https://meetville.com/",
          "startDate":"2011-11-01",
          "endDate":"2012-11-01",
@@ -124,7 +123,7 @@
       },
       {
          "company":"eHarmony, Inc",
-         "position":"Software Engineer at eHarmony Inc www.eharmony.com",
+         "position":"Software Engineer www.eharmony.com",
          "website":"https://www.eharmony.com",
          "startDate":"2008-08-01",
          "endDate":"2011-09-01",
@@ -145,9 +144,9 @@
          "endDate":"2011-09-01",
          "summary":"SOAP/Rest API for real-time AD Exchange platform - RightMedia",
          "highlights":[
-            "Worked on SOAP-API for high-load real-time advertising platform at scale",
-            "Heavily extended and rewrote existing funtional test coverage, integrational e2e testing",
-	    "Covered many new edge cases in tests which lead to fixes in critical API parts"
+            "Developed on SOAP-API for high-load real-time Ad platform at big scale",
+            "Heavily extended and rewrote existing functional test coverage, integrational e2e testing",
+	        "Covered new edge cases in tests which lead to fixes in critical API parts"
          ]
       },
       {
@@ -166,16 +165,12 @@
       {
          "institution":"Grodnenski Dzjaržauny Universitet",
          "area":"Experimental psychology",
-         "studyType":"MSc Psychologe Pädagoge",
-         "startDate":"2005-09-01",
-         "endDate":"2010-09-01"
+         "studyType":"MSc Psychologe Pädagoge"
       },
       {
          "institution":"GGPEK Elektrotechnik College",
-         "area":"Elektrische Energietechnik (Power engineering)",
-         "studyType": "Electrical Engineering",
-         "startDate":"2000-09-01",
-         "endDate":"2005-09-01"
+         "area":"Elektrische Energietechnik",
+         "studyType": "Engineering"
       }
    ],
    "awards":[
@@ -245,6 +240,7 @@
          "name":"Backend",
          "level":"",
          "keywords":[
+            "Go",
             "Golang",
             "PHP",
             "MySQL",
@@ -267,7 +263,7 @@
             "HAProxy",
             "Gitlab CI",
             "Symfony",
-            "Graphana",
+            "Grafana",
             "Prometheus",
             "AWS",
             "GCS",
@@ -309,46 +305,6 @@
       {  "name":"Events",
          "keywords":[
             "Berlin - AWS Summit 2014, 2015, 2016, 2017, 2019", "KubeCon + CloudNativeCon 2018, 2019"
-         ]
-      },
-      {  "name":"Podcasts, Forums, Interests",
-         "keywords":[
-            "Golang radio-t.com 2014 - 2021", "Habr habr.com 2008 - 2020", "AWS Podcast 2016 - 2022", "The WAN Show 2019 - 2023", "UWP by Umputun 2016 - 2021",
-            "Tom's Hardware", "agilemanifesto.org", "12factor.net", "Investment", "Startups", "Crypto"
-         ]
-      },
-      {
-         "name":"Reading",
-         "keywords":["Management", "Agile", "Scrum", "Sci-Fi", "Fantasy", "Horror", "Clean Code", "TDD", "Architecting for the Cloud",
-            "Isaac Asimov",
-            "Robert Heinlein",
-            "George Orwell",
-            "Terry Goodkind",
-            "Alan Kuper",
-            "Tom DeMarco",
-            "Robert Martin: Clean Code: A Handbook of Agile Software Craftsmanship",
-            "Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior",
-            "Edward Yourdon Death March",
-            "Alan Kuper The Inmates Are Running the Asylum",
-            "Smart and Gets Things Done: Joel Spolsky`s Concise Guide to Finding the Best Technical Talent",
-            "Frederick P. Brooks, The Mythical Man-Month",
-            "E. Gamma Design Patterns. Elements of Reusable Object-Oriented Software",
-            "J. Hank Rainwater Herding Cats: A Primer for Programmers Who Lead Programmers",
-            "Allan Kelly: Xanpan",
-            "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable System",
-            "Jinesh Varia: AWS Architecting for the Cloud: Best practices",
-            "The Phoenix Project: A Novel About IT by Gene Kim, Kevin Behr, George Spafford",
-            "SCRUM The Art of Doing Twice the Work in Half the Time by Jeff Sutherland",
-            "The soul of a new machine by Tracy Kidder",
-            "The five dysfunctions of a team: a Leadership fable by Patrick Lencioni",
-            "Crossing the chasm: marketing and selling high-tech products to mainstream customers",
-            "The Deadline: A Novel about Project Management by Tom DeMarco",
-            "Solid Code: Optimizing the Software Development Life Cycle by Donis Marshall and John Bruno",
-            "The software development edge: essay on managing successful projects by Joe Marasco",
-            "Joel on software by Joel Spolsky",
-            "Why software sucks… adn what you can do about it by David S. Platt",
-            "Programming Collective Intelligence by Toby Segaran",
-            "97 things every software architect should know: collective wisdom from the Experts"
          ]
       }
    ]
