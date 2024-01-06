@@ -5,7 +5,7 @@ contact@sshilko.com
 
 PROFESSIONAL SUMMARY
 ============================
-I'm engineer with hands-on speciality in backends.
+I'm engineer with hands-on expertise in backends.
 I designed, built, deployed and added features to social network app, built REST & RPC APIs, proficient with AWS cloud.
 I developed scalable realtime chat, video call, online booking system, search, online payments, fraud & risk systems.
 
