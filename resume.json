@@ -42,6 +42,7 @@
          "position":"Senior Software Engineer www.messagebird.com",
          "website":"https://messagebird.com",
          "startDate":"2022-06-01",
+         "endDate" "2023-12-31",
          "summary":"Building scalable foundation services: Golang, K8s, AWS, GCP, PHP for accounts, accounting, billing, payments.",
          "highlights":[
             "REST APIs, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20",
