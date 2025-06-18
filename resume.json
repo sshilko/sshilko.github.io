@@ -9,8 +9,7 @@
       "picture":"https://sshilko.com/shilko_avatar.jpg",
       "email":"contact@sshilko.com",
       "website":"https://sshilko.com",
-      "summary":"I'm engineer with hands-on expertise in backends. I designed, built, deployed and added features to social network app, built REST & RPC APIs, proficient with AWS cloud. I developed scalable real-time chat, video call, online booking system, search, online payments, fraud & risk systems.\n\n",
-
+      "summary":"Successfull projects in mobile apps, payments, social networks, realtime chats, video & audio calls, search, fraud & risk systems, APIs. \nHigh-load, reliable, scalable and maintainable solutions, on time and budget. High-performing engineering culture and teams, delivering real results.\n\n",
       "location":{
          "address":"",
          "postalCode":"12627",
@@ -38,11 +37,28 @@
    },
    "work":[
       {
+         "company":"Sammelkartenmarkt GmbH",
+         "position":"Engineering Team Lead",
+         "website":"https://www.cardmarket.com",
+         "startDate":"2025-02-01",
+         "summary":"",
+         "highlights":[]
+      },            
+      {
+         "company":"Sammelkartenmarkt GmbH",
+         "position":"Senior Software Engineer",
+         "website":"https://www.cardmarket.com",
+         "startDate":"2024-03-01",
+         "endDate": "2025-02-01",
+         "summary":"System design, integrations, architecture decisions, alignment with business goals.",
+         "highlights":[]
+      },      
+      {
          "company":"MessageBird B.V.",
-         "position":"Senior Software Engineer www.messagebird.com",
+         "position":"Senior Software Engineer",
          "website":"https://messagebird.com",
          "startDate":"2022-06-01",
-         "endDate" "2023-12-31",
+         "endDate": "2023-12-31",
          "summary":"Building scalable foundation services: Golang, K8s, AWS, GCP, PHP for accounts, accounting, billing, payments.",
          "highlights":[
             "REST APIs, OpenAPI v3, Google GRPC & protobuf APIs both in PHP8 and Golang 1.20",
@@ -170,11 +186,13 @@
       {
          "institution":"Grodnenski Dzjaržauny Universitet",
          "area":"Experimental psychology",
+         "endDate":"2010-01-01",
          "studyType":"MSc Psychologe Pädagoge"
       },
       {
          "institution":"GGPEK Elektrotechnik College",
          "area":"Elektrische Energietechnik",
+         "endDate":"2005-01-01",
          "studyType": "Engineering"
       }
    ],
@@ -304,12 +322,20 @@
       {
          "language":"German",
          "fluency":"B2 - Advanced"
+      },
+      {
+         "language":"Polish",
+         "fluency":"B1 - Advanced"
+      },
+      {
+         "language":"Russian",
+         "fluency":"Fluent"
       }
    ],
    "interests":[
       {  "name":"Events",
          "keywords":[
-            "Berlin - AWS Summit 2014, 2015, 2016, 2017, 2019", "KubeCon + CloudNativeCon 2018, 2019"
+            "Berlin - AWS Summit 2014, 2015, 2016, 2017, 2019", "KubeCon + CloudNativeCon 2018, 2019", "GopherCon 2024, 2025"
          ]
       }
    ]
