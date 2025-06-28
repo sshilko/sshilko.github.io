@@ -39,7 +39,7 @@ docker pull fixl/json-resume:2.2.4
 #docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme paper --format html index.html
 docker run --rm -it -v $(pwd):/src fixl/json-resume:2.2.4 export --theme elegant --format html index.html
 
-Remove dates from edu, add meta html.
+Remove dates from edu, add meta html, add defer to scripts
 
 # Hosted
 
