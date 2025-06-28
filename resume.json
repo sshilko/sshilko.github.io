@@ -335,7 +335,18 @@
    "interests":[
       {  "name":"Events",
          "keywords":[
-            "Berlin - AWS Summit 2014, 2015, 2016, 2017, 2019", "KubeCon + CloudNativeCon 2018, 2019", "GopherCon 2024, 2025"
+            "Berlin - AWS Summit 2014, 2015, 2016, 2017, 2019", 
+            "KubeCon + CloudNativeCon 2018, 2019", 
+            "GopherCon 2024, 2025"
+         ]
+      },
+      {  "name":"Hobby",
+         "keywords":[
+            "Saunalandschaft", 
+            "Tabletop Role-Playing Games", 
+            "Dungeons & Dragons 5e", 
+            "PC",
+            "Travel"
          ]
       }
    ]
