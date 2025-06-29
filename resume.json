@@ -51,7 +51,16 @@
          "startDate":"2024-03-01",
          "endDate": "2025-02-01",
          "summary":"System design, integrations, architecture decisions, alignment with business goals.",
-         "highlights":[]
+         "highlights":[
+            "Pioneered the adoption of Go (Golang)",
+            "Piloted a project adopting a modern microservices stack: ARMv8, Go (Golang) 1.23, Echo Framework, DDD, Kubernetes (K8s) on AWS EKS, Kind, Terraform, Helm, Flux CD and OpenAPI 3.1",
+            "Drove the successful launch of the company's first Go (Golang) microservice from conception to deployment, handling planning, architectural design, documentation, and hands-on implementation",
+            "Integrated New Relic's for APM and Metrics, Events, Logs, Traces, Distributed Tracing improving Observability",
+            "Improved code quality with new GitLab CI for static analysis and linting, to maintain high software standards",
+            "Designed and implemented a new SDK, packaged and deployed via own GitLab repository, to decouple search feature component",
+            "Orchestrated organizational shift from monolithic to domain-focused team structure",
+            "Creation and leadership of engineering squad: self-organizing team focused on delivering features with end-to-end ownership"
+         ]
       },      
       {
          "company":"MessageBird B.V.",
