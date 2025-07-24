@@ -281,7 +281,7 @@
             "SphinxSearch",
             "ManticoreSearch",
             "Docker",
-            "K8s",
+            "Kubernetes",
             "Beanstalkd",
             "RabbitMQ",
             "AMQP",
@@ -293,7 +293,7 @@
             "NewRelic APM",
             "DataDog",
             "HAProxy",
-            "Gitlab CI",
+            "Gitlab CI/CD",
             "Symfony",
             "Grafana",
             "Prometheus",
@@ -318,6 +318,7 @@
             "Cross functional teams",
             "Mentoring",
             "Jira",
+            "DDD",
             "Confluence",
             "C4 Model"
          ]
